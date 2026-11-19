@@ -1,264 +1,7 @@
 {
- "gerado_em": "2026-11-19T00:54:59",
- "total": 69,
+ "gerado_em": "2026-11-19T16:10:01",
+ "total": 64,
  "editais": [
-  {
-   "id": "76169879000161-1-000197/2026",
-   "orgao": "MUNICIPIO DE RESERVA",
-   "municipio": "Reserva",
-   "ibge": "4121703",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "074/2026",
-   "objeto": "Seleção de propostas visando à contratação de pessoa jurídica especializada em fabricação, montagem e instalação de mobiliários planejados, destinados a estruturação e adequação dos ambientes do Centro de Referência Especializado de Assistência Social - CREAS.",
-   "valor": 71051.33,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 71051.33,
-   "encerramento": "2026-11-19T08:00:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/76169879000161/2026/197",
-   "link_sistema": "https://bllcompras.com/Process/ProcessView?param1=[gkz]E3CAVXZL23B7s2N61GE_L7fO9SxJXddk02v8dCZRMjgljw/zZ3Uk771ZUZf4dvqu4xpzAt/OBD8_koql96Ct0_7IGhk6nzKt5MwArQMkgoo=",
-   "itens": [
-    {
-     "unidade": "Item 1",
-     "desc": "FABRICAÇÃO, MONTAGEM E INSTALAÇÃO DE MOBILIÁRIOS PLANEJADOS EM MDF E TODOS SEUS COMPONENTES NECESSARIOS PARA SUA MONTAGEM E INSTAÇÃO - CONFO…",
-     "qtd": 1.0,
-     "valor": 71051.33,
-     "mdf": true
-    }
-   ],
-   "lat": -24.6492,
-   "lon": -50.8466
-  },
-  {
-   "id": "76205970000195-1-000149/2026",
-   "orgao": "MUNICIPIO DE LARANJEIRAS DO SUL",
-   "municipio": "Laranjeiras do Sul",
-   "ibge": "4113304",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "92/2026",
-   "objeto": "REGISTRO DE PREÇOS PARA AQUISIÇÃO DE ITENS DE APOIO, EQUIPAMENTOS, MOBILIÁRIO E MÓVEIS PLANEJADOS DESTINADOS ÀS ATIVIDADES SOCIOASSISTENCIAIS E OPERACIONAIS DO CENTRO DE REFERÊNCIA ESPECIALIZADO DE ASSISTÊNCIA SOCIAL – CREAS, DA SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
-   "valor": 12913.789999999999,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 87834.99,
-   "encerramento": "2026-11-19T08:00:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/76205970000195/2026/149",
-   "link_sistema": null,
-   "itens": [
-    {
-     "unidade": "Item 5",
-     "desc": "QUADRO BRANCO PARA ESCRITA COM MARCADOR, MEDINDO 200 CM DE LARGURA",
-     "qtd": 5.0,
-     "valor": 2265.7,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 35",
-     "desc": "BALCÃO DE RECEPÇÃO EM L, CONFECCIONADO EM MDF DE 30 MM",
-     "qtd": 1.0,
-     "valor": 5126.67,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 38",
-     "desc": "ARMÁRIO PARA FILTRO DE ÁGUA CONFECCIONADO EM MDF DE 15 MM,",
-     "qtd": 1.0,
-     "valor": 1028.5,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 39",
-     "desc": "ESTANTE TIPO COLMEIA CONFECCIONADA EM MDF DE 15 MM,",
-     "qtd": 1.0,
-     "valor": 1776.25,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 40",
-     "desc": "MESA SUSPENSA CONFECCIONADA EM MDF DE 30 MM",
-     "qtd": 1.0,
-     "valor": 2716.67,
-     "mdf": true
-    }
-   ],
-   "lat": -25.4077,
-   "lon": -52.4109
-  },
-  {
-   "id": "76172907000108-1-000229/2026",
-   "orgao": "MUNICIPIO DE PITANGA",
-   "municipio": "Pitanga",
-   "ibge": "4119608",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "63/2026",
-   "objeto": "Registro de preços para futuras e eventuais aquisições de materiais permanentes, equipamentos e mobiliários, incluindo transporte, entrega e, nos itens em que expressamente previsto, montagem e instalação, destinados ao atendimento das necessidades das Secretarias Municipais de Educação, Cultura e E…",
-   "valor": 4466.76,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 1021722.56,
-   "encerramento": "2026-11-19T08:00:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/76172907000108/2026/229",
-   "link_sistema": null,
-   "itens": [
-    {
-     "unidade": "Item 35",
-     "desc": "BALCÃO PARA PIA COM 02 (DUAS) PORTAS E 03 (TRÊS) GAVETAS. EM MDF 18MM. PUXADORES EM METAL. DOBRADIÇAS METÁLICAS. DIMENSÕES APROXIMADAS: COMP…",
-     "qtd": 3.0,
-     "valor": 4466.76,
-     "mdf": true
-    }
-   ],
-   "lat": -24.7588,
-   "lon": -51.7596
-  },
-  {
-   "id": "95642286000115-1-000071/2026",
-   "orgao": "MUNICIPIO DE ANGULO",
-   "municipio": "Ângulo",
-   "ibge": "4101150",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "15/2026",
-   "objeto": "Aquisição de mobiliário escolar destinado a atender às necessidades da Escola Municipal Padre José de Anchieta, visando proporcionar melhores condições de ensino e aprendizagem, adequação e organização dos espaços pedagógicos",
-   "valor": 22756.8,
-   "valor_tipo": "conferir",
-   "valor_total_licitacao": 136253.78,
-   "encerramento": "2026-11-19T08:15:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/95642286000115/2026/71",
-   "link_sistema": null,
-   "itens": [
-    {
-     "unidade": "Item 2",
-     "desc": "ARMÁRIO ALTO FECHADO 2 PORTAS COLORIDAS PARA SALAS DE AULAS. MEDIDAS: 1.600x800x450 mm. TAMPO DE 25 mm",
-     "qtd": 12.0,
-     "valor": 22756.8,
-     "mdf": false
-    }
-   ],
-   "lat": -23.1946,
-   "lon": -51.9154
-  },
-  {
-   "id": "08829974000194-1-000084/2026",
-   "orgao": "INSTITUTO CHICO MENDES DE CONSERVACAO DA BIODIVERSIDADE",
-   "municipio": "Foz do Iguaçu",
-   "ibge": "4108304",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "14/2026",
-   "objeto": "Aquisição, por meio de Sistema de Registro de Preços, de bens diversos (eletrodomésticos, utensílios de cozinha, louças, colchões, travesseiros, televisores, purificadores de água, ferramentas, mobiliário e outros) para atender às unidades de conservação do ICMBio vinculadas à GR-5 Sul, referente ao…",
-   "valor": 398.0,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 330556.09,
-   "encerramento": "2026-11-19T09:00:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/08829974000194/2026/84",
-   "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=44304805000142026",
-   "itens": [
-    {
-     "unidade": "Item 23",
-     "desc": "Mesa Auxiliar acabamento bordas: arredondadas bilateralmente em pvc, altura: 75, características adicionais: pernas dobráveis cor preta, com…",
-     "qtd": 1.0,
-     "valor": 398.0,
-     "mdf": true
-    }
-   ],
-   "lat": -25.5427,
-   "lon": -54.5827
-  },
-  {
-   "id": "76208867000107-1-000659/2026",
-   "orgao": "MUNICIPIO DE CASCAVEL",
-   "municipio": "Cascavel",
-   "ibge": "4104808",
-   "modalidade": "Dispensa",
-   "numero": "20/2026",
-   "objeto": "Aquisição de armários, gaveteiros e suportes para monitores destinados ao IPMC, conforme as condições, quantidades e especificações do Termo de Referência.",
-   "valor": 7870.77,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 8838.66,
-   "encerramento": "2026-11-19T09:00:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/76208867000107/2026/659",
-   "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92813506000202026",
-   "itens": [
-    {
-     "unidade": "Item 1",
-     "desc": "Armário material: madeira mdf, tipo: baixo, quantidade portas: 2, tipo portas: com giro abertura 270°, acabamento superficial: fórmica líqui…",
-     "qtd": 1.0,
-     "valor": 1133.16,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2",
-     "desc": "Armário Escritório quantidade portas: 3, quantidade prateleiras: 1, tipo porta: fechadura com chave, revestimento: laminado melamínico, cara…",
-     "qtd": 2.0,
-     "valor": 3067.32,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 3",
-     "desc": "Armário Escritório material: madeira mdp, quantidade portas: 2, quantidade prateleiras: 3, revestimento: laminado melamínico baixa pressão, …",
-     "qtd": 1.0,
-     "valor": 1575.24,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 4",
-     "desc": "Gaveteiro Móvel material: madeira mdp, tipo revestimento: laminado de madeira natural, quantidade gavetas: 3, altura: 65, largura: 430, prof…",
-     "qtd": 3.0,
-     "valor": 2095.05,
-     "mdf": true
-    }
-   ],
-   "lat": -24.9573,
-   "lon": -53.459
-  },
-  {
-   "id": "24039073000155-1-001344/2026",
-   "orgao": "FUNDACAO ESTATAL DE ATENCAO EM SAUDE DO ESTADO DO PARANA - FUNEAS-PARANA",
-   "municipio": "Curitiba",
-   "ibge": "4106902",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "86/2026",
-   "objeto": "A presente licitação tem por objeto a CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA O FORNECIMENTO, FABRICAÇÃO, TRANSPORTE, DESCARREGAMENTO, IÇAMENTO, MONTAGEM E INSTALAÇÃO DE MOBILIÁRIO PLANEJADO SOB MEDIDA, a fim de atender as demandas do Hospital de Dermatologia Sanitária do Paraná – HDSPR, pelo perí…",
-   "valor": 137234.88,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 137234.88,
-   "encerramento": "2026-11-19T10:00:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/24039073000155/2026/1344",
-   "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=93205905000862026",
-   "itens": [
-    {
-     "unidade": "Item 1",
-     "desc": "Confecção Móvel - Uso Hospitalar Confecção Móvel - Uso Hospitalar",
-     "qtd": 1.0,
-     "valor": 137234.88,
-     "mdf": true
-    }
-   ],
-   "lat": -25.4195,
-   "lon": -49.2646
-  },
-  {
-   "id": "76172907000108-1-000231/2026",
-   "orgao": "MUNICIPIO DE PITANGA",
-   "municipio": "Pitanga",
-   "ibge": "4119608",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "65/2026",
-   "objeto": "Aquisição de itens para o SCFV Aconchego e SCFV da Pessoa Idosa, em cumprimento a execução de Emenda de indicação de vereador para o Fundo da Infância e Adolescência – FIA e para o Fundo Municipal dos Direitos da Pessoa Idosa, visando a aquisição de equipamentos e materiais permanentes para os SCFVs…",
-   "valor": 10149.6,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 28735.2,
-   "encerramento": "2026-11-19T15:30:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/76172907000108/2026/231",
-   "link_sistema": null,
-   "itens": [
-    {
-     "unidade": "Item 1",
-     "desc": "Mesa refeitório, material tampo: madeira aglomerada, revestimento tampo: laminado melamínico texturizado alta pressão , espessura: 25 mm, al…",
-     "qtd": 5.0,
-     "valor": 10149.6,
-     "mdf": true
-    }
-   ],
-   "lat": -24.7588,
-   "lon": -51.7596
-  },
   {
    "id": "24039073000155-1-001352/2026",
    "orgao": "FUNDACAO ESTATAL DE ATENCAO EM SAUDE DO ESTADO DO PARANA - FUNEAS-PARANA",
@@ -3867,6 +3610,46 @@
    "lon": -50.1932
   },
   {
+   "id": "78198975000163-1-000235/2026",
+   "orgao": "MUNICIPIO DE GOIOERE",
+   "municipio": "Goioerê",
+   "ibge": "4108601",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "PE 56/2026",
+   "objeto": "Aquisição de MATERIAIS E EQUIPAMENTOS HOSPITALARES, COMPUTADORES, ELETRODOMÉSTICOS, LIXEIRAS e MOBILIÁRIOS EM GERAL, contemplados através das Resoluções SESA nº 515/2024 e nº 1946/2025, conforme solicitação da Secretaria Municipal de Saúde de Goioerê/PR.",
+   "valor": 5886.0,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 285209.4,
+   "encerramento": "2026-12-02T07:59:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/78198975000163/2026/235",
+   "link_sistema": "",
+   "itens": [
+    {
+     "unidade": "Item 39",
+     "desc": "MESA DE ESCRITÓRIO EM MDF (BR0601720). Tampo/gaveta, preferencialmente, na cor branco ou cinza; bordas laterais do tampo revestidas em PVC o…",
+     "qtd": 7.0,
+     "valor": 4193.0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 41",
+     "desc": "MESA DE REUNIÃO (MODELO OVAL) (BR0612912). Material em MDF, com acabamento superficial em laminado melaminico BP. Bordas do tampo cobertas p…",
+     "qtd": 1.0,
+     "valor": 828.0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 42",
+     "desc": "MESA DE REUNIÃO (MODELO REDONDO) (BR0460897). Material em MDF, com acabamento superficial em laminado melaminico BP. Bordas do tampo coberta…",
+     "qtd": 1.0,
+     "valor": 865.0,
+     "mdf": true
+    }
+   ],
+   "lat": -24.1835,
+   "lon": -53.0248
+  },
+  {
    "id": "78198975000163-1-000233/2026",
    "orgao": "MUNICIPIO DE GOIOERE",
    "municipio": "Goioerê",
@@ -4576,6 +4359,149 @@
      "desc": "Bancada material: madeira mdf, tipo: liso, comprimento: 1,40, largura: 0,60, altura: 0,75, acabamento: revestimento em laminado melamínico, …",
      "qtd": 1.0,
      "valor": 36905.5,
+     "mdf": true
+    }
+   ],
+   "lat": -23.304,
+   "lon": -51.1691
+  },
+  {
+   "id": "78640489000153-1-001166/2026",
+   "orgao": "UNIVERSIDADE ESTADUAL DE LONDRINA",
+   "municipio": "Londrina",
+   "ibge": "4113700",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "206/2026",
+   "objeto": "Aquisição esquipamentos e material permanente - mesas de trabalho e reunião, cadeiras estofadas, carteira, armário e outros para a Universidade Estadual de Londrina.",
+   "valor": 52783.17,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 469128.16,
+   "encerramento": "2026-12-09T09:00:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/78640489000153/2026/1166",
+   "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92676905002062026",
+   "itens": [
+    {
+     "unidade": "Item 1",
+     "desc": "Armário Arquivo prateleiras internas: 5, largura: 1,86, profundidade: 0,45, altura: 2,51, material: madeira mdf, material base: madeira mdf,…",
+     "qtd": 6.0,
+     "valor": 8585.58,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 13",
+     "desc": "Mesa Escritório material estrutura: mdf, largura: 1,20, altura: 750",
+     "qtd": 4.0,
+     "valor": 2128.72,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 14",
+     "desc": "Mesa Escolar material estrutura: tubo de aço, material tampo: mdp, revestimento tampo: laminado melamínico, dimensões tampo: 900 x 600, altu…",
+     "qtd": 30.0,
+     "valor": 9076.2,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 15",
+     "desc": "Mesa Reunião Retangular material: madeira mdf, comprimento: 2500, largura: 1.100, altura: 740, cor: carvalho claro, material tampo: aglomera…",
+     "qtd": 25.0,
+     "valor": 28676.5,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 16",
+     "desc": "Mesa Madeira material: mdf, comprimento: 150, largura: 60, altura: 80",
+     "qtd": 2.0,
+     "valor": 3605.56,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 17",
+     "desc": "Quadro Branco material: laminado melamínico brilhante, acabamento superficial moldura: alumínio, cor moldura: natural, finalidade: lançament…",
+     "qtd": 4.0,
+     "valor": 392.16,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 18",
+     "desc": "Quadro Branco material: laminado melamínico brilhante, acabamento superficial moldura: alumínio anodizado, finalidade: sala de aula, largura…",
+     "qtd": 1.0,
+     "valor": 318.45,
+     "mdf": true
+    }
+   ],
+   "lat": -23.304,
+   "lon": -51.1691
+  },
+  {
+   "id": "78640489000153-1-001169/2026",
+   "orgao": "UNIVERSIDADE ESTADUAL DE LONDRINA",
+   "municipio": "Londrina",
+   "ibge": "4113700",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "1544/2026",
+   "objeto": "EXCLUSIVA ME, PRINCIPAL E RESERVADO",
+   "valor": 67170.01,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 469128.16,
+   "encerramento": "2026-12-09T09:00:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/78640489000153/2026/1169",
+   "link_sistema": "www.transparencia.pr.gov.br/pte/compras/licitacoes/pesquisar-param?numprocesso=1544&ano=2026&codmodalidade=68",
+   "itens": [
+    {
+     "unidade": "Lote 1",
+     "desc": "(L1) 7101.73347-Armário, TIPO: Alto, com 2 portas e 3 divisórias, MATERIAL: MDF, CARACTERÍSTICAS ADICIONAIS: Demais informações de acordo co…",
+     "qtd": 6.0,
+     "valor": 8585.58,
+     "mdf": true
+    },
+    {
+     "unidade": "Lote 12",
+     "desc": "(L12) 7101.57685-Escrivaninha, MATERIAL: Madeira, Demais informações de acordo com Termo de Referência e/ou Descritivo Técnico do processo, …",
+     "qtd": 4.0,
+     "valor": 2128.72,
+     "mdf": true
+    },
+    {
+     "unidade": "Lote 13",
+     "desc": "(L13) 7101.61031-Mesa Reta, MATERIAL: MDP, Demais informações de acordo com Termo de Referência e/ou Descritivo Técnico do Processo, UNID. D…",
+     "qtd": 30.0,
+     "valor": 9076.2,
+     "mdf": true
+    },
+    {
+     "unidade": "Lote 14",
+     "desc": "(L14) 7101.111258-Mesa de reunião, TIPO: Para 8 a 12 lugares, DIMENSÃO: Largura: 1000mm, Altura: 740mm, Comprimento: 3000mm (variação de +/-…",
+     "qtd": 25.0,
+     "valor": 28676.5,
+     "mdf": true
+    },
+    {
+     "unidade": "Lote 15",
+     "desc": "(L15) 7101.55132-Mesa de reunião, MATERIAL: MDF, Demais informações de acordo com Termo de Referência, UNID. DE MEDIDA: Unitário",
+     "qtd": 2.0,
+     "valor": 3605.56,
+     "mdf": true
+    },
+    {
+     "unidade": "Lote 16",
+     "desc": "(L16) 7101.48520-Quadro branco, MATERIAL: Com moldura de alumínio, Com suporte para apagador, Demais informações de acordo com Termo de Refe…",
+     "qtd": 4.0,
+     "valor": 392.16,
+     "mdf": true
+    },
+    {
+     "unidade": "Lote 17",
+     "desc": "(L17) 7101.48520-Quadro branco, MATERIAL: Com moldura de alumínio, Com suporte para apagador, Demais informações de acordo com Termo de Refe…",
+     "qtd": 1.0,
+     "valor": 318.45,
+     "mdf": true
+    },
+    {
+     "unidade": "Lote 18",
+     "desc": "(L18) 7101.48520-Quadro branco, MATERIAL: Com moldura de alumínio, Com suporte para apagador, Demais informações de acordo com Termo de Refe…",
+     "qtd": 13.0,
+     "valor": 14386.84,
      "mdf": true
     }
    ],
