@@ -1,33 +1,7 @@
 {
- "gerado_em": "2026-11-19T22:52:05",
- "total": 66,
+ "gerado_em": "2026-11-20T15:43:17",
+ "total": 69,
  "editais": [
-  {
-   "id": "24039073000155-1-001352/2026",
-   "orgao": "FUNDACAO ESTATAL DE ATENCAO EM SAUDE DO ESTADO DO PARANA - FUNEAS-PARANA",
-   "municipio": "Curitiba",
-   "ibge": "4106902",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "1717/2026",
-   "objeto": "AQUISIÇÃO DE MÓVEIS PLANEJADOS.",
-   "valor": 137234.88,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 137234.88,
-   "encerramento": "2026-11-20T10:00:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/24039073000155/2026/1352",
-   "link_sistema": "www.transparencia.pr.gov.br/pte/compras/licitacoes/pesquisar-param?numprocesso=1717&ano=2026&codmodalidade=68",
-   "itens": [
-    {
-     "unidade": "Lote 1",
-     "desc": "(L1) 518.55392-Prestação de Serviços, Confecção de Móvel Planejado em MDF, Demais informações de acordo com Termo de Referência e/ou Descrit…",
-     "qtd": 1.0,
-     "valor": 137234.88,
-     "mdf": true
-    }
-   ],
-   "lat": -25.4195,
-   "lon": -49.2646
-  },
   {
    "id": "76175892000123-1-000224/2026",
    "orgao": "MUNICIPIO DE IMBITUVA",
@@ -4105,6 +4079,53 @@
    "lon": -54.1618
   },
   {
+   "id": "01607539000176-1-000113/2026",
+   "orgao": "MUNICIPIO DE CAMPO MAGRO",
+   "municipio": "Campo Magro",
+   "ibge": "4104253",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "29/2026",
+   "objeto": "Aquisição de equipamentos mobiliários, eletroeletrônicos, equipamentos de informática, climatização, eletrodomésticos e materiais permanentes destinados às Unidades da Secretaria Municipal de Saúde de Campo Magro, conforme Resoluções SESA n° 1.697/2024 e nº 1.450/2025, conforme condições estabelecid…",
+   "valor": 67859.65,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 437804.37,
+   "encerramento": "2026-12-03T08:50:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/01607539000176/2026/113",
+   "link_sistema": "https://bnccompras.com/Process/ProcessView?param1=[gkz]b4XE18usjQLyOrjA_IbJ7sKT_yllkkJJcjKLOdUB94k8pEIW6dbun3StLqTNW4J0_eH_uncTTzYvL83yrCjmIU4YsjyDq8oB6dMIFl9QABg=",
+   "itens": [
+    {
+     "unidade": "Item 2",
+     "desc": "Armário com duas portas: corpo (laterais, base, prateleiras e fundos) confeccionado em madeira aglomerada 18 mm de espessura, revestimento d…",
+     "qtd": 30.0,
+     "valor": 36697.2,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 9",
+     "desc": "Mesa reta para consultório, material em MDP na cor branca, tampo em 15mm, pés em aço cor branca com pintura epóxi, gaveteiro com duas gaveta…",
+     "qtd": 35.0,
+     "valor": 21863.45,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 10",
+     "desc": "Mesa de Impressora, Acabamento Estrutura: Pintado, Revestimento Tampo: Folheado Madeira, Largura: 0,60 CM, Altura: 0,80 CM, Cor Tampo: Madei…",
+     "qtd": 20.0,
+     "valor": 5634.0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 18",
+     "desc": "Balcão Atendimento - Material Estrutura: Madeira MDF, Material Corpo: Madeira MDF, Revestimento Corpo: Laminado Melamínico, Quantidade Prate…",
+     "qtd": 2.0,
+     "valor": 3665.0,
+     "mdf": true
+    }
+   ],
+   "lat": -25.3687,
+   "lon": -49.4501
+  },
+  {
    "id": "77816510000166-1-000361/2026",
    "orgao": "MUNICIPIO DE FRANCISCO BELTRAO",
    "municipio": "Francisco Beltrão",
@@ -4223,6 +4244,81 @@
    ],
    "lat": -25.3902,
    "lon": -51.4623
+  },
+  {
+   "id": "75687954000113-1-000059/2026",
+   "orgao": "MUNICIPIO DE PAULA FREITAS",
+   "municipio": "Paula Freitas",
+   "ibge": "4118600",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "47/2026",
+   "objeto": "Registro de Preços para Futura e Eventual Aquisição de Equipamentos, Mobiliários, Eletroeletrônicos e Materiais, destinados ao atendimento das necessidades das Secretarias do Município de Paula Freitas/PR.",
+   "valor": 70506.13,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 1470685.14,
+   "encerramento": "2026-12-07T08:00:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/75687954000113/2026/59",
+   "link_sistema": "https://bllcompras.com/Process/ProcessView?param1=[gkz]kpBxWpnw4tTw3c2AHHT0rsNAOQfS53HNCAmUjJQV3XxcSQMijmBJHUbBCojE3fl6rQ1mUKy47er5cOnuyXNT64RftJVf5tT_X3ZTdpPMSLg=",
+   "itens": [
+    {
+     "unidade": "Item 37",
+     "desc": "ARMARIO DE 02 (DUAS) PORTASARMARIO DE 02 (DUAS) PORTAS. Confeccionado em MDP com espessura minima de 15 mm, revestido em material melaminico…",
+     "qtd": 15.0,
+     "valor": 13235.6205,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 40",
+     "desc": "ARMARIO ESTANTE Movel composto por duas portas individuais baixas e divisoria central interna, fundo e duratreeMovel composto por duas porta…",
+     "qtd": 15.0,
+     "valor": 11862.45,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 41",
+     "desc": "BALCAO (DE COZINHA) GABINETE DE PIA, material: MDF ou MDP, com no minimo tres gavetas e duas portas, medindo aproximadamente 120 cm, comprim…",
+     "qtd": 4.0,
+     "valor": 2812.0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 42",
+     "desc": "BALCAO BAIXO FECHADOBALCAO BAIXO FECHADO, contendo 02 portas de abrir, puxadores tipo alca, com fechadura, 01 prateleira interna regulavel, …",
+     "qtd": 15.0,
+     "valor": 8805.0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 57",
+     "desc": "ESTANTE COM 9 NICHOSESTANTE COM 9 NICHOS. Movel composto por 9 nichos abertos. Confeccionado em MDF 15 mm em melaminico branco. Dimensoes: 1…",
+     "qtd": 10.0,
+     "valor": 9176.7,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 58",
+     "desc": "MESA DE ESCRITORIO COM GAVETA (PROFESSOR). Mesa Simples com 2 gavetas para escritorio, Confeccionada em MDP 15 mmMESA DE ESCRITORIO COM GAVE…",
+     "qtd": 15.0,
+     "valor": 4989.3795,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 59",
+     "desc": "MESA PARA COZINHA 4 LUGARES, tampo em MDF medindo aproximadamente: altura 80cm x comprimento 80cm e Largura 110cm. Com 4 cadeiras.MESA PARA …",
+     "qtd": 9.0,
+     "valor": 5190.03,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 60",
+     "desc": "MESA PARA ESCRITORIO, MODELO DELTA, EM L, COM 2 GAVETAS.Confeccionada em MDP 15 mm, acabamento em perfil PVC em volta do tampo. Pes em tubo …",
+     "qtd": 15.0,
+     "valor": 14434.95,
+     "mdf": true
+    }
+   ],
+   "lat": -26.2105,
+   "lon": -50.931
   },
   {
    "id": "75743377000130-1-000207/2026",
@@ -4465,6 +4561,72 @@
    ],
    "lat": -23.914,
    "lon": -52.3431
+  },
+  {
+   "id": "76002666000140-1-000305/2026",
+   "orgao": "MUNICIPIO DE PIEN",
+   "municipio": "Piên",
+   "ibge": "4119103",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "91/2026",
+   "objeto": "Registro de Preços para eventual e futura aquisição de eletroeletrônicos, eletrodomésticos e equipamentos diversos, destinados a atender às necessidades das Secretarias Municipais, conforme especificações, quantitativos e condições estabelecidas",
+   "valor": 1291.32,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 884287.12,
+   "encerramento": "2026-12-08T09:29:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/76002666000140/2026/305",
+   "link_sistema": null,
+   "itens": [
+    {
+     "unidade": "Item 100",
+     "desc": "CÔMODA, COM 6 GAVETAS: Confeccionada em material MDF, com 06 gavetas, puxadores em ABS e acabamento em pintura UV. Altura aproximada de 91 a…",
+     "qtd": 2.0,
+     "valor": 1291.32,
+     "mdf": true
+    }
+   ],
+   "lat": -26.0965,
+   "lon": -49.4336
+  },
+  {
+   "id": "75680025000182-1-000085/2026",
+   "orgao": "MUNICIPIO DE PALMITAL",
+   "municipio": "Palmital",
+   "ibge": "4117800",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "48/2026",
+   "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES PARA A SECRETARIA MUNICIPAL DE SAÚDE DE PALMITAL/PR, DESTINADOS À ESTRUTURAÇÃO, MODERNIZAÇÃO E MELHORIA DOS SERVIÇOS DE SAÚDE, COM UTILIZAÇÃO PREVISTA NAS ESTRATÉGIAS DE SAÚDE DA FAMÍLIA, NO PRONTO SOCORRO, NOS SERVIÇOS DE ATENDIMENTO ODONTOLÓGICO, N…",
+   "valor": 25144.47,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 629434.7,
+   "encerramento": "2026-12-09T08:00:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/75680025000182/2026/85",
+   "link_sistema": "https://bnccompras.com/Process/ProcessView?param1=[gkz]QHPCmhZvWRmgbiHTJ4s3lbkYzRcTIB5iwgIKil2UsA6XRa4mCbIy68Ne5zFEeijA_f2s01Hkdy6N7/lVSU8Hnh_ZWYubHlC7AJdnuH5h0iU=",
+   "itens": [
+    {
+     "unidade": "Item 3",
+     "desc": "ARMÁRIO MULTIUSO; MATERIAL: 100% MDF; CONFIGURAÇÃO: 2 PORTAS DE ABRIR E PRATELEIRAS INTERNAS; DIMENSÕES EXTERNAS: 187 CM DE ALTURA X 95 CM D…",
+     "qtd": 10.0,
+     "valor": 16674.3,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 34",
+     "desc": "MESA DE ESCRITÓRIO MESA DE ESCRITÓRIO RETANGULAR, COM TAMPO EM MDF, ACABAMENTO DE FÁCIL LIMPEZA E CONSERVAÇÃO, CONTENDO 02 GAVETAS COM FECHA…",
+     "qtd": 1.0,
+     "valor": 768.57,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 35",
+     "desc": "MESA EM L MESA DE ESCRITÓRIO EM FORMATO 'L', COM TAMPO EM MDF DE ALTA RESISTÊNCIA, ACABAMENTO MELAMÍNICO DE FÁCIL LIMPEZA E CONSERVAÇÃO, NA …",
+     "qtd": 6.0,
+     "valor": 7701.6,
+     "mdf": true
+    }
+   ],
+   "lat": -24.8853,
+   "lon": -52.2029
   },
   {
    "id": "78640489000153-1-001166/2026",
