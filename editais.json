@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-19T16:10:01",
- "total": 64,
+ "gerado_em": "2026-11-19T22:52:05",
+ "total": 66,
  "editais": [
   {
    "id": "24039073000155-1-001352/2026",
@@ -1682,6 +1682,74 @@
    ],
    "lat": -23.2654,
    "lon": -50.4288
+  },
+  {
+   "id": "00394502000144-1-016920/2026",
+   "orgao": "COMANDO DA MARINHA",
+   "municipio": "Paranaguá",
+   "ibge": "4118204",
+   "modalidade": "Dispensa",
+   "numero": "56/2026",
+   "objeto": "Aquisição de Bens: Mobiliário, eletrodomésticos e eletroeletrônicos.",
+   "valor": 14079.689999999999,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 32696.91,
+   "encerramento": "2026-11-26T08:00:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/00394502000144/2026/16920",
+   "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=78933006000562026",
+   "itens": [
+    {
+     "unidade": "Item 3",
+     "desc": "Cama material: madeira, tipo: box, comprimento: 190, largura: 140",
+     "qtd": 1.0,
+     "valor": 1518.88,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 6",
+     "desc": "Armário Banheiro material: mdf, quantidade portas: 2, cor: branco texturizado, características adicionais: com 2 gavetas e espelho, largura:…",
+     "qtd": 2.0,
+     "valor": 2400.0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 7",
+     "desc": "Cama material: madeira mogno, tipo: box/solteiro, comprimento: 1,88, largura: 0,88, características adicionais: tecido jacquard/espuma selad…",
+     "qtd": 2.0,
+     "valor": 2600.0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 12",
+     "desc": "Guarda-Roupa material: madeira mdf, acabamento superficial: acabamento pintura uv, quantidade gavetas: 2, quantidade portas: 2, altura: 183,…",
+     "qtd": 2.0,
+     "valor": 2865.92,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 13",
+     "desc": "Guarda-Roupa material: madeira mdf, tipo madeira: aglomerado, acabamento superficial: laminado, quantidade gavetas: 8, quantidade portas: 6,…",
+     "qtd": 1.0,
+     "valor": 1985.25,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 14",
+     "desc": "Mesa Escritório material estrutura: mdf, material tampo: mdf, revestimento tampo: laminado melamínico, cor tampo: madeirado (imbuia), largur…",
+     "qtd": 1.0,
+     "valor": 1690.99,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 15",
+     "desc": "Balcão material: madeira, tipo madeira: mdf, espessura material: 20, altura: 80, largura: 2,0, profundidade: 0,55, revestimento: laminado, c…",
+     "qtd": 1.0,
+     "valor": 1018.65,
+     "mdf": true
+    }
+   ],
+   "lat": -25.5161,
+   "lon": -48.5225
   },
   {
    "id": "95422846000126-1-000269/2026",
@@ -4364,6 +4432,39 @@
    ],
    "lat": -23.304,
    "lon": -51.1691
+  },
+  {
+   "id": "75370148000117-1-000095/2026",
+   "orgao": "MUNICIPIO DE PEABIRU",
+   "municipio": "Peabiru",
+   "ibge": "4118808",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "34/2026",
+   "objeto": "CONTRATAÇÃO TEM POR OBJETO A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA CONFECÇÃO, FORNECIMENTO E MONTAGEM DE MOBILIÁRIO PLANEJADO, SOB MEDIDA, BEM COMO FORNECIMENTO DE EQUIPAMENTO DE INFORMÁTICA, DESTINADOS À BIBLIOTECA PÚBLICA DA CASA DA CULTURA PROFESSOR NELY PINHEIRO, NO MUNICÍPIO DE PEABIRU - PR…",
+   "valor": 22050.0,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 25000.0,
+   "encerramento": "2026-12-08T08:45:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/75370148000117/2026/95",
+   "link_sistema": null,
+   "itens": [
+    {
+     "unidade": "Item 1",
+     "desc": "ESCRIVANINHA PLANEJADA EM MDF, com dimensões de 2,74 m x 2,74 m e altura de 76 cm, conforme especificações e características definidas pela …",
+     "qtd": 1.0,
+     "valor": 4150.0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 2",
+     "desc": "PRATELEIRA PLANEJADA EM MDF LOURO FREIJÓ, com 7,10 metros corridos e altura de 2,75 m, conforme especificações e características definidas p…",
+     "qtd": 1.0,
+     "valor": 17900.0,
+     "mdf": true
+    }
+   ],
+   "lat": -23.914,
+   "lon": -52.3431
   },
   {
    "id": "78640489000153-1-001166/2026",
