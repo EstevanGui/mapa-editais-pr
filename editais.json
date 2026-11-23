@@ -1,389 +1,7 @@
 {
- "gerado_em": "2026-11-22T17:24:06",
- "total": 69,
+ "gerado_em": "2026-11-23T19:09:41",
+ "total": 66,
  "editais": [
-  {
-   "id": "76175892000123-1-000224/2026",
-   "orgao": "MUNICIPIO DE IMBITUVA",
-   "municipio": "Imbituva",
-   "ibge": "4110102",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "039/2026",
-   "objeto": "Aquisição de novos mobiliários, equipamentos e eletrodomésticos visando atender às necessidades das escolas, CMEIs e demais unidades vinculadas a Secretaria Municipal de Educação",
-   "valor": 535489.11,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 3794031.78,
-   "encerramento": "2026-11-23T08:15:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/76175892000123/2026/224",
-   "link_sistema": null,
-   "itens": [
-    {
-     "unidade": "Item 2328945",
-     "desc": "ARMÁRIO ALTO MULTIUSO armário alto com nove portas com puxadores individuais em MDF de no mínimo 15 mm, cor a escolher, com revestimento das…",
-     "qtd": 17.0,
-     "valor": 60817.5,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2328948",
-     "desc": "BALCÃO COM NOVE NICHOS ABERTOS E PRATELEIRAS COLORIDAS balcão com nove (09) nichos confeccionados em MDF de no mínimo 15 mm, cor a escolher,…",
-     "qtd": 45.0,
-     "valor": 65463.75,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2328949",
-     "desc": "BERÇO MINI CAMA COM COLCHÃO berço mini cama com colchão com estrutura da cabeceira em MDP de no mínimo 12mm compostas de duas partes, bordas…",
-     "qtd": 40.0,
-     "valor": 39158.4,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2328962",
-     "desc": "ESTANTE COM NOVE BAÚS COLORIDOS estante com nove baús coloridos, modelo colmeia infantil com os baús coloridos com estrutura em MDF de no mí…",
-     "qtd": 42.0,
-     "valor": 72885.96,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2328963",
-     "desc": "ESTANTE ORGANIZADORA OITO CAIXAS estante organizadora oito caixas, armário com oito nichos e 8 caixas multiuso, confeccionado em tampo (chap…",
-     "qtd": 42.0,
-     "valor": 87601.5,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2328965",
-     "desc": "MESA PARA CADEIRANTE mesa individual acessível para pessoa em cadeira de rodas (PCR), com tampo em MDP ou MDF, revestido na face superior em…",
-     "qtd": 6.0,
-     "valor": 3777.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2328971",
-     "desc": "QUADRO ESCOLAR VERDE QUADRICULADO 500X120CM: Quadro confeccionado em MDF/MDP de no mínimo 9mm, sobreposto por laminado melamínico profission…",
-     "qtd": 90.0,
-     "valor": 205785.0,
-     "mdf": true
-    }
-   ],
-   "lat": -25.2285,
-   "lon": -50.5989
-  },
-  {
-   "id": "75741363000187-1-000068/2026",
-   "orgao": "MUNICIPIO DE JARDIM ALEGRE",
-   "municipio": "Jardim Alegre",
-   "ibge": "4112504",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "056/2026",
-   "objeto": "Aquisição de materiais permanentes, compreendendo móveis, armários, mesas, cadeiras, eletrodomésticos e afins, para atender as necessidades das Secretarias Municipais por um período de 12 (doze) meses.",
-   "valor": 418152.63000000006,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 4259985.09,
-   "encerramento": "2026-11-23T08:30:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/75741363000187/2026/68",
-   "link_sistema": "https://bnccompras.com/Process/ProcessView?param1=[gkz]vOtMSKn_fQXCSFnnuHIGLZNhMYMcl0rcHq7bBIxozQisInGemOyohHAfF0SU/qiAUty09WzK8MDUPprT76_lPHlkzWSuD4J_2WXY0L/qqI4=",
-   "itens": [
-    {
-     "unidade": "Item 28",
-     "desc": "Armário 9 Portas ColoridoEspecificação Técnica: Armário para armazenamento, composto por 09 portas individuais com puxadores, destinado à or…",
-     "qtd": 21.0,
-     "valor": 33522.93,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 30",
-     "desc": "Armário de Escritório com ChaveEspecificação Técnica: Armário para escritório, composto por 02 portas com fechadura e fornecido com, no míni…",
-     "qtd": 30.0,
-     "valor": 31884.9,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 34",
-     "desc": "Mesa de Cabeceira Hospitalar com Mesa de Refeição AcopladaEspecificação Técnica: Mesa de cabeceira destinada ao uso hospitalar e clínico, co…",
-     "qtd": 23.0,
-     "valor": 30217.17,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 36",
-     "desc": "Mesa de Reunião OvalEspecificação Técnica: Mesa de reunião com formato oval, destinada a ambientes corporativos e institucionais, projetada …",
-     "qtd": 11.0,
-     "valor": 28636.3,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 41",
-     "desc": "Mesa em L com Gaveteiro Fixo e Gaveteiro VolanteEspecificação Técnica: Estação de trabalho em formato \"L\", destinada a ambientes administrat…",
-     "qtd": 15.0,
-     "valor": 24954.9,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 47",
-     "desc": "Cama Box com Colchão de SolteiroEspecificação Técnica: Conjunto cama box com colchão de solteiro, destinado ao uso residencial ou institucio…",
-     "qtd": 25.0,
-     "valor": 23233.25,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 62",
-     "desc": "Mesa GinecológicaEspecificação Técnica: Mesa ginecológica destinada à realização de exames e procedimentos clínicos, confeccionada com estru…",
-     "qtd": 6.0,
-     "valor": 18634.8,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 76",
-     "desc": "Estante Organizadora de Brinquedos ColoridaEspecificação Técnica: Mobiliário destinado à organização e armazenamento de brinquedos e materia…",
-     "qtd": 24.0,
-     "valor": 14695.92,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 85",
-     "desc": "Estante com 9 Nichos AbertosEspecificação Técnica: Mobiliário destinado à organização e armazenamento de materiais diversos em ambientes adm…",
-     "qtd": 30.0,
-     "valor": 12605.7,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 98",
-     "desc": "Armário para Cozinha 07 Portas e 03 GavetasEspecificação Técnica: Armário para cozinha, composto por 07 portas, sendo no mínimo 02 portas de…",
-     "qtd": 8.0,
-     "valor": 11215.92,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 102",
-     "desc": "Mesa de Escritório com 02 GavetasEspecificação Técnica: Mesa de escritório destinada ao uso administrativo e institucional, indicada para at…",
-     "qtd": 10.0,
-     "valor": 10797.5,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 105",
-     "desc": "Balcão para Pia com Tampo em InoxEspecificação Técnica: Balcão para pia, destinado ao armazenamento e organização de utensílios e materiais …",
-     "qtd": 10.0,
-     "valor": 10433.3,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 109",
-     "desc": "Mesa para Professor com 02 GavetasEspecificação Técnica: Mesa destinada ao uso de professores em salas de aula, ambientes administrativos e …",
-     "qtd": 13.0,
-     "valor": 9611.29,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 118",
-     "desc": "Mesa Acessível para Pessoa em Cadeira de Rodas (PCR)Especificação Técnica: Mobiliário individual destinado ao uso por pessoa em cadeira de r…",
-     "qtd": 6.0,
-     "valor": 8760.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 119",
-     "desc": "Estante Nicho Organizadora para BrinquedosEspecificação Técnica: Mobiliário destinado à organização e armazenamento de brinquedos e materiai…",
-     "qtd": 23.0,
-     "valor": 8624.54,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 129",
-     "desc": "Mesa para Reunião RetangularEspecificação Técnica: Mesa para reunião, modelo retangular, destinada a ambientes corporativos, administrativos…",
-     "qtd": 4.0,
-     "valor": 7025.32,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 130",
-     "desc": "Armário para Cozinha CompactaEspecificação Técnica: Armário para cozinha compacta, com estrutura em painel de madeira industrializada tipo M…",
-     "qtd": 8.0,
-     "valor": 6949.28,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 134",
-     "desc": "Armário Balcão Multiuso 02 PortasEspecificação Técnica: Armário balcão multiuso, composto por 02 portas, destinado ao armazenamento e organi…",
-     "qtd": 13.0,
-     "valor": 6474.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 140",
-     "desc": "Armário Porta Cartolina com 09 GavetasEspecificação Técnica: Armário porta cartolina destinado ao armazenamento e organização de cartolinas,…",
-     "qtd": 3.0,
-     "valor": 5629.98,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 143",
-     "desc": "Escrivaninha de Trabalho com Gaveteiro em AçoEspecificação Técnica: Mobiliário destinado a atividades administrativas e operacionais, projet…",
-     "qtd": 7.0,
-     "valor": 5549.25,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 180",
-     "desc": "Mesa para Reunião com Tampo RedondoEspecificação Técnica: Mesa para reunião com tampo redondo, destinada a ambientes corporativos, administr…",
-     "qtd": 3.0,
-     "valor": 3057.99,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 182",
-     "desc": "Quadro BrancoEspecificação Técnica: Quadro branco para escrita com marcadores apagáveis, indicado para ambientes administrativos, educaciona…",
-     "qtd": 15.0,
-     "valor": 2925.9,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 183",
-     "desc": "Armário Multiuso para Lavanderia 02 Portas com RodíziosEspecificação Técnica: Armário multiuso para lavanderia, composto por 02 portas, dest…",
-     "qtd": 6.0,
-     "valor": 2877.96,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 186",
-     "desc": "Quadro Branco MagnéticoEspecificação Técnica: Quadro branco magnético para escrita com marcadores e fixação de documentos por meio de ímãs, …",
-     "qtd": 13.0,
-     "valor": 2591.03,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 210",
-     "desc": "Berço Mini Cama 2 em 1Especificação Técnica: Berço infantil com função 2 em 1, permitindo sua conversão para mini cama. Deverá possuir estru…",
-     "qtd": 2.0,
-     "valor": 1352.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 236",
-     "desc": "Quadro Escolar Verde QuadriculadoEspecificação Técnica: Quadro escolar para escrita com giz, confeccionado em chapa de MDF com espessura mín…",
-     "qtd": 20.0,
-     "valor": 48400.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 238",
-     "desc": "Estante Lúdica com Baús OrganizadoresEspecificação Técnica: Mobiliário destinado à organização e armazenamento de brinquedos, jogos e materi…",
-     "qtd": 25.0,
-     "valor": 47491.5,
-     "mdf": true
-    }
-   ],
-   "lat": -24.1809,
-   "lon": -51.6902
-  },
-  {
-   "id": "81392656000107-1-000143/2026",
-   "orgao": "MUNICIPIO DE GODOY MOREIRA",
-   "municipio": "Godoy Moreira",
-   "ibge": "4108551",
-   "modalidade": "Dispensa",
-   "numero": "36/2026",
-   "objeto": "AQUISIÇÃO DE MÓVEIS E MATERIAS PERMANENTES ATRAVÉS DE RECURSOS FINANCEIROS DO PROGRAMA CUIDA MAIS PARANÁ – ENVELHECIMENTO ATIVO,",
-   "valor": 12854.77,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 63844.13,
-   "encerramento": "2026-11-23T08:45:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/81392656000107/2026/143",
-   "link_sistema": null,
-   "itens": [
-    {
-     "unidade": "Item 1",
-     "desc": "Armário guarda-volumes confeccionado em MDF, contendo 20 compartimentos individuais, cada um equipado com fechadura e chave própria. Estrutu…",
-     "qtd": 1.0,
-     "valor": 2937.25,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 5",
-     "desc": "Mesa retangular de apoio para serviço e distribuição de alimentos, confeccionada em MDF de alta qualidade, medindo aproximadamente 3,00 m de…",
-     "qtd": 2.0,
-     "valor": 4132.02,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 6",
-     "desc": "Mesa de sinuca/bilhar semiprofissional, medindo externamente aproximadamente 2,20 m de comprimento × 1,20 m de largura × 0,82 m de altura. E…",
-     "qtd": 1.0,
-     "valor": 5785.5,
-     "mdf": true
-    }
-   ],
-   "lat": -24.173,
-   "lon": -51.9246
-  },
-  {
-   "id": "76022508000152-1-000114/2026",
-   "orgao": "MUNICIPIO DE GUARAQUECABA",
-   "municipio": "Guaraqueçaba",
-   "ibge": "4109500",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "47/2026",
-   "objeto": "Contratação o registro de preços para futura e eventual aquisição de materiais permanentes, equipamentos, mobiliários e eletrodomésticos destinados ao atendimento das necessidades da Secretaria Municipal de Educação de Guaraqueçaba/PR e das unidades da rede municipal de ensino, conforme as especific…",
-   "valor": 68196.29999999999,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 352779.84,
-   "encerramento": "2026-11-23T13:59:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/76022508000152/2026/114",
-   "link_sistema": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49537",
-   "itens": [
-    {
-     "unidade": "Item 2327457",
-     "desc": "ARMÁRIO ALTO EM MDF MELAMÍNICO BP, COR DE REFERÊNCIA - CINZA CRISTAL, TAMPO SUPERIOR EM CHAPA DE 18 MM COM 02 PORTAS E 06 PRATELEIRAS, SENDO…",
-     "qtd": 10.0,
-     "valor": 8938.5,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2327459",
-     "desc": "Mesa Escritório Escrivaninha 140cm x 60cm, Pés em Metal Tampo 100% MDF Industrial, tampo em MDF de 3cm e pés em metal com regulagem de altur…",
-     "qtd": 20.0,
-     "valor": 14734.6,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2327465",
-     "desc": "MESA PROFESSOR TIPO FNDE:1,20x65 Cor Cristal/cristal. Profundidade: 65 cm. Altura: 76 cm. Largura: 1.20 cm. Composta de mdp 15mm.",
-     "qtd": 80.0,
-     "valor": 44523.2,
-     "mdf": true
-    }
-   ],
-   "lat": -25.3071,
-   "lon": -48.3204
-  },
-  {
-   "id": "75371401000157-1-000088/2026",
-   "orgao": "MUNICIPIO DE RONCADOR",
-   "municipio": "Roncador",
-   "ibge": "4122503",
-   "modalidade": "Dispensa",
-   "numero": "37/2026",
-   "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES, DESTINADOS A ATENDER ÀS NECESSIDADES DA SECRETARIA MUNICIPAL DE SAÚDE DE RONCADOR/PR.",
-   "valor": 3349.95,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 38470.17,
-   "encerramento": "2026-11-23T14:00:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/75371401000157/2026/88",
-   "link_sistema": null,
-   "itens": [
-    {
-     "unidade": "Item 3",
-     "desc": "Cama de exame ginecológico tipo divã, com estrutura em madeira com espessura mínima de 15 mm, MDF de fabricante certificado, revestido em la…",
-     "qtd": 1.0,
-     "valor": 3349.95,
-     "mdf": true
-    }
-   ],
-   "lat": -24.5958,
-   "lon": -52.2716
-  },
   {
    "id": "77001311000108-1-000656/2026",
    "orgao": "MUNICIPIO DE CASTRO",
@@ -4126,6 +3744,32 @@
    "lon": -49.4501
   },
   {
+   "id": "75101873000190-1-000632/2026",
+   "orgao": "UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA",
+   "municipio": "Medianeira",
+   "ibge": "4115804",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "5/2026",
+   "objeto": "Registro de preços para aquisição futura e eventual de equipamentos diversos, incluindo aparelhos de ar-condicionado, equipamentos de jardinagem e manutenção, ferramentas elétricas, equipamentos de marcenaria, bebedouros e eletrodomésticos para atender às demandas dos campi de Toledo, Medianeira e S…",
+   "valor": 3738.86,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 1226509.67,
+   "encerramento": "2026-12-03T09:00:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/75101873000190/2026/632",
+   "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15302905000052026",
+   "itens": [
+    {
+     "unidade": "Item 24",
+     "desc": "Equipamentos Diversos Para Serviços Profissionais aplicação: coleta de resíduos sólidos, capacidade: 153, componentes: 1 bocal com mangueira…",
+     "qtd": 1.0,
+     "valor": 3738.86,
+     "mdf": true
+    }
+   ],
+   "lat": -25.2977,
+   "lon": -54.0943
+  },
+  {
    "id": "77816510000166-1-000361/2026",
    "orgao": "MUNICIPIO DE FRANCISCO BELTRAO",
    "municipio": "Francisco Beltrão",
@@ -4211,6 +3855,32 @@
    ],
    "lat": -25.683,
    "lon": -50.2949
+  },
+  {
+   "id": "76178011000128-1-000124/2026",
+   "orgao": "MUNICIPIO DE PINHAO",
+   "municipio": "Pinhão",
+   "ibge": "4119301",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "57/2026",
+   "objeto": "REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL AQUISIÇÃO DE EQUIPAMENTOS DE INFORMÁTICA E MOBILIÁRIOS, COM RECURSOS FEDERAIS PROVENIENTES DOS INSTRUMENTOS N.º 0924852500012301, N.º 09248525000124005, N.º 36000667025202500, DAS RESOLUÇÕES SESA/PR N.º 773/2019, N.º 860/2022, N.º 1450/2025, E DA EMENDA PARL…",
+   "valor": 1501.6,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 125597.76,
+   "encerramento": "2026-12-04T08:30:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/76178011000128/2026/124",
+   "link_sistema": null,
+   "itens": [
+    {
+     "unidade": "Item 3",
+     "desc": "CAMA BELICHE SOLTEIRO EM MADEIRA MACIÇA COM 02 COLCHÕES. CAMA BELICHE PARA ADULTO, CONFECCIONADA EM MADEIRA MACIÇA, COMPOSTA POR DUAS CAMAS …",
+     "qtd": 1.0,
+     "valor": 1501.6,
+     "mdf": true
+    }
+   ],
+   "lat": -25.6944,
+   "lon": -51.6536
   },
   {
    "id": "76178037000176-1-000295/2026",
