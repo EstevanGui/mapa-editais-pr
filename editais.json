@@ -1,33 +1,7 @@
 {
- "gerado_em": "2026-11-23T19:09:41",
- "total": 66,
+ "gerado_em": "2026-11-24T03:10:18",
+ "total": 67,
  "editais": [
-  {
-   "id": "77001311000108-1-000656/2026",
-   "orgao": "MUNICIPIO DE CASTRO",
-   "municipio": "Castro",
-   "ibge": "4104907",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "PCE 167/2026",
-   "objeto": "AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES DIVERSOS, DESTINADOS À EXECUÇÃO DAS AÇÕES DESENVOLVIDAS PELA CENTRAL DE ABASTECIMENTO FARMACÊUTICA (CAF), EM ATENDIMENTO ÀS RESOLUÇÕES SESA Nº 1.712/2024 E Nº 1.450/2025, NO ÂMBITO DO INCENTIVO À ORGANIZAÇÃO DA ASSISTÊNCIA FARMACÊUTICA (IOAF)",
-   "valor": 5700.0,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 207023.2,
-   "encerramento": "2026-11-24T00:00:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/77001311000108/2026/656",
-   "link_sistema": null,
-   "itens": [
-    {
-     "unidade": "Item 9",
-     "desc": "ARMÁRIO ALTO COM 02 PORTAS, DIMENSÕES: 813 X 500 X 1600 MM (LX) (VARIAÇÃO MÁXIMA DE 5% NAS MEDIDAS PARA MAIS OU PARA MENOS). TAMPO EM MDF ES…",
-     "qtd": 2.0,
-     "valor": 5700.0,
-     "mdf": true
-    }
-   ],
-   "lat": -24.7891,
-   "lon": -50.0108
-  },
   {
    "id": "76205657000157-1-000068/2026",
    "orgao": "MUNICIPIO DE ENEAS MARQUES",
@@ -3617,6 +3591,39 @@
    "lon": -50.6498
   },
   {
+   "id": "76966845000106-1-000241/2026",
+   "orgao": "MUNICIPIO DE JOAQUIM TAVORA",
+   "municipio": "Joaquim Távora",
+   "ibge": "4112801",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "PCE 107/2026",
+   "objeto": "Contratação de empresa para o fornecimento de equipamentos e bens permanentes destinados ao atendimento das demandas das Secretarias municipais de Joaquim Távora/PR.",
+   "valor": 11447.61,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 14442.62,
+   "encerramento": "2026-12-02T09:30:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/76966845000106/2026/241",
+   "link_sistema": null,
+   "itens": [
+    {
+     "unidade": "Item 1",
+     "desc": "MESA DE SINUCA/BILHAR, ALTURA DE 82 CM, COMPRIMENTO DE 2,2 M E LARGURA DE 1,2 M; CONFECCIONADA COM PANO EM ACRÍLICO E SUPERFÍCIE DE JOGO EM …",
+     "qtd": 1.0,
+     "valor": 5761.17,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 3",
+     "desc": "BALÇÃO SALA DE VACINA (2,20X60X0,65) COM AS ESPECIFICAÇÕES : - CUBA EM INOX. BALCÃO EM MDF 15MM. - TORNEIRA CLOMADA PADRÃO MÉDIO. - VÁLVULA …",
+     "qtd": 1.0,
+     "valor": 5686.44,
+     "mdf": true
+    }
+   ],
+   "lat": -23.4987,
+   "lon": -49.909
+  },
+  {
    "id": "77721363000140-1-000207/2026",
    "orgao": "MUNICIPIO DE ORTIGUEIRA",
    "municipio": "Ortigueira",
@@ -3881,6 +3888,39 @@
    ],
    "lat": -25.6944,
    "lon": -51.6536
+  },
+  {
+   "id": "76105519000104-1-000293/2026",
+   "orgao": "MUNICIPIO DE CONTENDA",
+   "municipio": "Contenda",
+   "ibge": "4106209",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "59/2026",
+   "objeto": "Aquisição de equipamentos e materiais permanentes para o Centro de Especialidades Médicas de Contenda/PR, com recursos vinculados à Resolução SESA nº 1442/2025.",
+   "valor": 7177.879999999999,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 303620.94,
+   "encerramento": "2026-12-04T08:30:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/76105519000104/2026/293",
+   "link_sistema": null,
+   "itens": [
+    {
+     "unidade": "Item 8",
+     "desc": "Mesa de reunião retangular com tampo em madeira aglomerada com 25 mm de espessura, revestida em laminado melamínico na cor branca, c/ bordas…",
+     "qtd": 4.0,
+     "valor": 4522.48,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 9",
+     "desc": "Mesa para consultório para computador, confeccionada em madeira ou MDF, possui suporte para CPU, teclado e impressora, 02 a 04 gavetas com c…",
+     "qtd": 5.0,
+     "valor": 2655.4,
+     "mdf": true
+    }
+   ],
+   "lat": -25.6788,
+   "lon": -49.535
   },
   {
    "id": "76178037000176-1-000295/2026",
