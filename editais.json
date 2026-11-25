@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-24T17:52:28",
- "total": 65,
+ "gerado_em": "2026-11-25T02:06:47",
+ "total": 67,
  "editais": [
   {
    "id": "75461970000193-1-000100/2026",
@@ -3814,6 +3814,39 @@
    "lon": -51.3659
   },
   {
+   "id": "77001311000108-1-000687/2026",
+   "orgao": "MUNICIPIO DE CASTRO",
+   "municipio": "Castro",
+   "ibge": "4104907",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "PCE 178/2026",
+   "objeto": "Aquisição de mobiliário, equipamentos de informática e projeção, colchões hospitalares e cadeira de rodas para atender às necessidades da Casa da Criança e Adolescente Padre Marcello Quillici, das Obras Sociais Espírita Mariliana Barbosa e do Acolhimento São Vicente de Paula, com recursos de emenda …",
+   "valor": 2589.0,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 36867.23,
+   "encerramento": "2026-12-08T08:30:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/77001311000108/2026/687",
+   "link_sistema": null,
+   "itens": [
+    {
+     "unidade": "Item 9",
+     "desc": "MESA DE REUNIÃO RETANGULAR CONFECCIONADA EM MDF DE ALTA DENSIDADE, REVESTIDA EM PADRÃO MADEIRA COR CARVALHO, COM DIMENSÕES APROXIMADAS DE 3,…",
+     "qtd": 1.0,
+     "valor": 2240.0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 10",
+     "desc": "GAVETEIRO VOLANTE COM 04 GAVETAS - DIMENSÕES: 300 X 470 X 648 MM (LXPXA) TAMPO SUPERIOR CONFECCIONADO EM MDP COM 25 MM DE ESPESSURA, REVESTI…",
+     "qtd": 1.0,
+     "valor": 349.0,
+     "mdf": true
+    }
+   ],
+   "lat": -24.7891,
+   "lon": -50.0108
+  },
+  {
    "id": "75370148000117-1-000095/2026",
    "orgao": "MUNICIPIO DE PEABIRU",
    "municipio": "Peabiru",
@@ -4155,6 +4188,32 @@
     {
      "unidade": "Item 4",
      "desc": "Berço confeccionado em MDP 15 mm; cor branco; com regulagem de altura do estrado medidas mínimas: 80 cm altura para colchão de 1,30 m x 70 c…",
+     "qtd": 10.0,
+     "valor": 4738.4,
+     "mdf": true
+    }
+   ],
+   "lat": -23.182,
+   "lon": -52.2031
+  },
+  {
+   "id": "75730994000109-1-000441/2026",
+   "orgao": "MUNICIPIO DE NOVA ESPERANCA",
+   "municipio": "Nova Esperança",
+   "ibge": "4116901",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "81/2026",
+   "objeto": "Registro de preço para futura Contratação de pessoa jurídica para o fornecimento de mobiliários domésticos e equipamentos industriais (itens fracassados/desertos no pregão 93/2026).",
+   "valor": 4738.4,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 77187.7,
+   "encerramento": "2026-12-10T08:59:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/75730994000109/2026/441",
+   "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98772105000812026",
+   "itens": [
+    {
+     "unidade": "Item 4",
+     "desc": "Berço material: aço/mdf, acabamento superficial: pintura, cor: branca, características adicionais: grades/cabeceira mdf, rodízios c/freio",
      "qtd": 10.0,
      "valor": 4738.4,
      "mdf": true
