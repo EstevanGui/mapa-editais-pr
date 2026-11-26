@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-11-25T17:08:01",
- "total": 62,
+ "gerado_em": "2026-11-25T23:58:30",
+ "total": 71,
  "editais": [
   {
    "id": "76235746000146-1-000056/2026",
@@ -1516,6 +1516,46 @@
    "lon": -52.6706
   },
   {
+   "id": "80881915000192-1-000126/2026",
+   "orgao": "MUNICIPIO DE LINDOESTE",
+   "municipio": "Lindoeste",
+   "ibge": "4113452",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "PR74/2026",
+   "objeto": "A presente licitação tem como objeto a escolha da proposta mais vantajosa, aquisição de ARMÁRIOS E ESCRIVANINHAS PLANEJADOS SOB MEDIDA, destinados à Farmácia Básica da Unidade de Atenção Primária à Saúde da Família (UAPSF) do Cielito, em atendimento à Secretaria Municipal de Saúde, conforme condiçõe…",
+   "valor": 49308.9,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 49308.9,
+   "encerramento": "2026-11-27T09:00:01",
+   "link_pncp": "https://pncp.gov.br/app/editais/80881915000192/2026/126",
+   "link_sistema": null,
+   "itens": [
+    {
+     "unidade": "Item 1",
+     "desc": "ARMÁRIO EM MDF 18MM SALERNO-GUARARAPES C/ 100 GAVETAS DE CORRER C/ VIDRO FRONTAL TEMPERADO 6MM",
+     "qtd": 1.0,
+     "valor": 30185.0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 2",
+     "desc": "ESCRIVANINHA EM FORMATO L EM MDF 18MM SALERNOGUARARAPES C/ 2 GAVETAS",
+     "qtd": 2.0,
+     "valor": 6736.9,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 3",
+     "desc": "ARMÁRIO EM FORMATO L EM MDF 18MM SALERNO- GUARARAPES C/ 36 NICHOS C/ PRATELEIRAS",
+     "qtd": 1.0,
+     "valor": 12387.0,
+     "mdf": true
+    }
+   ],
+   "lat": -25.2596,
+   "lon": -53.5733
+  },
+  {
    "id": "17757258000130-1-000057/2026",
    "orgao": "CAMARA MUNICIPAL DE PIRAQUARA",
    "municipio": "Piraquara",
@@ -1903,6 +1943,53 @@
    ],
    "lat": -24.2775,
    "lon": -53.0759
+  },
+  {
+   "id": "75771287000152-1-000102/2026",
+   "orgao": "MUNICIPIO DE CAMBIRA",
+   "municipio": "Cambira",
+   "ibge": "4103800",
+   "modalidade": "Dispensa",
+   "numero": "56/2026",
+   "objeto": "AQUISIÇÃO DE MÓVEIS DE ESCRITÓRIO, DESTINADOS A SECRETARIA MUNICIPALDA MULHER E ASSISTÊNCIA SOCIAL",
+   "valor": 17196.690000000002,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 30600.04,
+   "encerramento": "2026-12-01T08:00:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/75771287000152/2026/102",
+   "link_sistema": "https://transparencia.agilicloud.com.br/cambirapr/licitacoes/licitacao?id=10107",
+   "itens": [
+    {
+     "unidade": "Item 195385",
+     "desc": "Gaveteiro horizontal confeccionado em MDP, com 4 gavetas equipadas com corrediças metálicas, proporcionando abertura e fechamento adequados.…",
+     "qtd": 1.0,
+     "valor": 1166.67,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 195390",
+     "desc": "Mesa de reunião para 10 lugares, com dimensões aproximadas de 320 cm de largura, 110 cm de profundidade e 73,5 cm de altura, confeccionada e…",
+     "qtd": 1.0,
+     "valor": 3610.0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 195391",
+     "desc": "Mesa de Escritório em “L”. Mesa Principal medindo 120cm de largura, 60cm de profundidade, com tampo em MDF, altura de 75cm ±2cm, pés de Meta…",
+     "qtd": 2.0,
+     "valor": 3153.34,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 195392",
+     "desc": "Armário Multiuso de Escritório – 2 portas; Estrutura em MDF ou MDP, com acabamento em melamina ou BP (baixa pressão), de alta durabilidade e…",
+     "qtd": 4.0,
+     "valor": 9266.68,
+     "mdf": true
+    }
+   ],
+   "lat": -23.589,
+   "lon": -51.5792
   },
   {
    "id": "95684536000180-1-000055/2026",
@@ -2377,6 +2464,67 @@
    "lon": -50.6498
   },
   {
+   "id": "33787094000140-1-000668/2026",
+   "orgao": "FUNDACAO INSTIT BRAS DE GEOGRAFIA E ESTATISTICA IBGE",
+   "municipio": "Curitiba",
+   "ibge": "4106902",
+   "modalidade": "Dispensa",
+   "numero": "89/2026",
+   "objeto": "Aquisição de pias e mobiliário para as agências do IBGE em Colombo, Paranaguá e Ponta Grossa.",
+   "valor": null,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 0.0,
+   "encerramento": "2026-12-02T09:00:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/33787094000140/2026/668",
+   "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=11462306000892026",
+   "itens": [
+    {
+     "unidade": "Item 1",
+     "desc": "Armário Copa/Cozinha material: madeira mdp, tipo: de pé, acabamento superficial: pintado, cor: branca, quantidade portas: 8, largura: 1,05, …",
+     "qtd": 1.0,
+     "valor": 0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 2",
+     "desc": "Bancada Com Pia E Armário componentes: bancada em granito/cuba em inox/armário em madeira, comprimento bancada: 1,20, profundidade bancada: …",
+     "qtd": 1.0,
+     "valor": 0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 3",
+     "desc": "Armário Copa/Cozinha material: madeira mdp, tipo: de pé, acabamento superficial: pintado, cor: branca, quantidade portas: 8, largura: 1,05, …",
+     "qtd": 1.0,
+     "valor": 0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 4",
+     "desc": "Bancada Com Pia E Armário componentes: bancada em granito/cuba em inox/armário em madeira, comprimento bancada: 1,20, profundidade bancada: …",
+     "qtd": 1.0,
+     "valor": 0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 5",
+     "desc": "Armário Copa/Cozinha material: madeira mdp, tipo: de pé, acabamento superficial: pintado, cor: branca, quantidade portas: 8, largura: 1,05, …",
+     "qtd": 1.0,
+     "valor": 0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 6",
+     "desc": "Bancada Com Pia E Armário componentes: bancada em granito/cuba em inox/armário em madeira, comprimento bancada: 1,20, profundidade bancada: …",
+     "qtd": 1.0,
+     "valor": 0,
+     "mdf": true
+    }
+   ],
+   "lat": -25.4195,
+   "lon": -49.2646
+  },
+  {
    "id": "76966845000106-1-000241/2026",
    "orgao": "MUNICIPIO DE JOAQUIM TAVORA",
    "municipio": "Joaquim Távora",
@@ -2817,6 +2965,32 @@
    "lon": -50.931
   },
   {
+   "id": "77819605000133-1-000066/2026",
+   "orgao": "MUNICIPIO DE SAO JOSE DAS PALMEIRAS",
+   "municipio": "São José das Palmeiras",
+   "ibge": "4125456",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "41/2026",
+   "objeto": "Aquisição de equipamentos e materiais destinados ao fortalecimento da infraestrutura cultural municipal, abrangendo recursos audiovisuais, instrumentos e uniformes de fanfarra, equipamentos de tecnologia da informação e mobiliário, conforme Projeto Código nº 106041.",
+   "valor": 3764.33,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 183057.27,
+   "encerramento": "2026-12-07T08:10:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/77819605000133/2026/66",
+   "link_sistema": "https://bllcompras.com/Process/ProcessView?param1=[gkz]usQbkvsLKCE6XiLRrvzUXg7PCu3GsTApBwJd7JSQRi/EIWUKaJSFIhflia075ZFllMuLbhRsRL7dTeRge1mC9Kvyz1LhD9CyD5xo1TREWx0=",
+   "itens": [
+    {
+     "unidade": "Item 11",
+     "desc": "ESTANTE ORGANIZADORA INFANTIL PARA LIVROS, DO TIPO EXPOSITORA FRONTAL, Estante organizadora infantil para livros, do tipo expositora frontal…",
+     "qtd": 1.0,
+     "valor": 3764.33,
+     "mdf": true
+    }
+   ],
+   "lat": -24.8369,
+   "lon": -54.0572
+  },
+  {
    "id": "75743377000130-1-000207/2026",
    "orgao": "MUNICIPIO DE ASTORGA",
    "municipio": "Astorga",
@@ -2991,6 +3165,53 @@
    ],
    "lat": -24.1548,
    "lon": -49.8285
+  },
+  {
+   "id": "75771238000110-1-000130/2026",
+   "orgao": "MUNICIPIO DE KALORE",
+   "municipio": "Kaloré",
+   "ibge": "4113106",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "20/2026",
+   "objeto": "EVENTUAL E FUTURA AQUISIÇÃO DE MATERIAIS DE CONSTRUÇÃO PARA OBRAS E REPAROS DIVERSOS, destinados ao atendimento das demandas dos diversos departamentos da Prefeitura Municipal de Kaloré/PR",
+   "valor": 15338.2,
+   "valor_tipo": "misto",
+   "valor_total_licitacao": 1015987.2,
+   "encerramento": "2026-12-07T08:59:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/75771238000110/2026/130",
+   "link_sistema": null,
+   "itens": [
+    {
+     "unidade": "Item 11",
+     "desc": "ARMÁRIO DE BANHEIRO 28X48",
+     "qtd": 20.0,
+     "valor": 1043.2,
+     "mdf": false
+    },
+    {
+     "unidade": "Item 110",
+     "desc": "PORTA MADEIRA BANHEIRO TAUARI/IPE 80CM",
+     "qtd": 20.0,
+     "valor": 4765.0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 111",
+     "desc": "PORTA MADEIRA TAUARI 70CM",
+     "qtd": 20.0,
+     "valor": 5070.0,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 112",
+     "desc": "PORTA MADEIRA TAUARI 80CM",
+     "qtd": 20.0,
+     "valor": 4460.0,
+     "mdf": true
+    }
+   ],
+   "lat": -23.8188,
+   "lon": -51.6687
   },
   {
    "id": "78640489000153-1-000973/2026",
@@ -3499,6 +3720,107 @@
    "lon": -50.0108
   },
   {
+   "id": "76002641000147-1-000491/2026",
+   "orgao": "MUNICIPIO DE RIO NEGRO",
+   "municipio": "Rio Negro",
+   "ibge": "4122305",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "64/2026",
+   "objeto": "Aquisição de equipamentos, mobiliários e materiais diversos para atender às necessidades das unidades da Secretaria Municipal de Saúde",
+   "valor": 8335.43,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 373758.94,
+   "encerramento": "2026-12-09T08:30:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/76002641000147/2026/491",
+   "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98782305000642026",
+   "itens": [
+    {
+     "unidade": "Item 5",
+     "desc": "Armário Escritório material: aglomerado mdf, quantidade portas: 2, material porta: madeira mdf, quantidade prateleiras: 5, material pratelei…",
+     "qtd": 5.0,
+     "valor": 3350.15,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 46",
+     "desc": "Mesa Impressora Microcomputador material estrutura: aço tubular, acabamento estrutura: pintado, material tampo: mdp, largura: 50, profundida…",
+     "qtd": 6.0,
+     "valor": 1924.14,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 47",
+     "desc": "Mesa Refeitório material tampo: madeira aglomerada, revestimento tampo: laminado melamínico baixa pressão, material estrutura: metálica, car…",
+     "qtd": 1.0,
+     "valor": 1918.72,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 64",
+     "desc": "Mesa Madeira material: mdf, comprimento: 70, largura: 70, altura: 75, espessura tampo: 30, características adicionais: dobrável",
+     "qtd": 2.0,
+     "valor": 1142.42,
+     "mdf": true
+    }
+   ],
+   "lat": -26.095,
+   "lon": -49.7982
+  },
+  {
+   "id": "76002641000147-1-000492/2026",
+   "orgao": "MUNICIPIO DE RIO NEGRO",
+   "municipio": "Rio Negro",
+   "ibge": "4122305",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "PCE 86/2026",
+   "objeto": "Aquisição de equipamentos, mobiliários e materiais diversos para atender às necessidades das unidades da Secretaria Municipal de Saúde.",
+   "valor": 12648.9,
+   "valor_tipo": "misto",
+   "valor_total_licitacao": 373758.94,
+   "encerramento": "2026-12-09T08:30:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/76002641000147/2026/492",
+   "link_sistema": null,
+   "itens": [
+    {
+     "unidade": "Item 5",
+     "desc": "ARMÁRIO  &nbsp;2 portas em MDF, tipo alto, 02 portas, mínimo de 4 prateleiras (espessura das prateleiras no mínimo 25 mm). Medidas aproximad…",
+     "qtd": 5.0,
+     "valor": 3350.15,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 35",
+     "desc": "GAVETEIRO ODONTOLÓGICO MÓVEL, COM ESTRUTURA EM MATERIAL RESISTENTE À CORROSÃO, SUPERFÍCIE LISA, IMPERMEÁVEL E DE FÁCIL HIGIENIZAÇÃO. DOTADO …",
+     "qtd": 1.0,
+     "valor": 1116.94,
+     "mdf": false
+    },
+    {
+     "unidade": "Item 45",
+     "desc": "MESA DE EXAMES: MESA EM MADEIRA, LEITO ESTOFADO REVESTIDO EM CORVIM, CABECEIRA REGULÁVEL, 4 GAVETAS LATERAIS, DUAS PORTAS, UMA PRATELEIRA IN…",
+     "qtd": 3.0,
+     "valor": 5120.67,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 47",
+     "desc": "MESA PARA REFEITÓRIO PARA 6 LUGARES, TIPO FIXO: MESA CONFECCIONADA EM MDF OU MDF, COM ESPESSURA MÍNIMA DE 18 MM, REVESTIDO NAS DUAS FACES EM…",
+     "qtd": 1.0,
+     "valor": 1918.72,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 64",
+     "desc": "MESA DE MADEIRA MDF/MDP COM MEDIDAS APROXIMADAS DE 1,00 M X 0,66 X 0,75 M (LXPXA), COM TAMPO EM MADEIRA COM ESPESSURA MÍNIMA DE 18 MM, ESTRU…",
+     "qtd": 2.0,
+     "valor": 1142.42,
+     "mdf": true
+    }
+   ],
+   "lat": -26.095,
+   "lon": -49.7982
+  },
+  {
    "id": "78640489000153-1-001166/2026",
    "orgao": "UNIVERSIDADE ESTADUAL DE LONDRINA",
    "municipio": "Londrina",
@@ -3692,6 +4014,72 @@
    ],
    "lat": -23.182,
    "lon": -52.2031
+  },
+  {
+   "id": "95640736000130-1-000089/2026",
+   "orgao": "MUNICIPIO DE ALTO PARAISO",
+   "municipio": "Alto Paraíso",
+   "ibge": "4128625",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "58 | Processo 93/2026",
+   "objeto": "AQUISICAO DE EQUIPAMENTOS MEDICO HOSPITALARES EQUIPAMENTOS DE INFORMATICA MOBILIARIOS E DEMAIS MATERIAIS PERMANENTES DESTINADOS AO FORTALECIMENTO E A ESTRUTURACAO DA REDE DE ATENCAO A SAUDE DO MUNICIPIO DE ALTO PARAISO PR PARA INSTALACAO E USO NOS ESTABELECIMENTOS MUNICIPAIS DE SAUDE VINCULADOS A",
+   "valor": 30186.0,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 274259.67,
+   "encerramento": "2026-12-11T08:00:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/95640736000130/2026/89",
+   "link_sistema": " ",
+   "itens": [
+    {
+     "unidade": "Item 24",
+     "desc": "ARMARIO ESCRITORIO MATERIAL AGLOMERADO MDF QUANTIDADE PORTAS 2 UN MATERIAL PORTA MADEIRA MDF QUANTIDADE PRATELEIRAS 5 UN MATERIAL PRATELEIRA…",
+     "qtd": 6.0,
+     "valor": 4447.98,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 25",
+     "desc": "MESA REUNIAO RETANGULAR MATERIAL MADEIRA AGLOMERADA MDP COMPRIMENTO 2 70 M LARGURA 1.200 MM ALTURA 740 MM COR CARVALHO MALVA REVESTIMENTO LA…",
+     "qtd": 3.0,
+     "valor": 4345.47,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 31",
+     "desc": "MESA ESCRITORIO MATERIAL ESTRUTURA MDF QUANTIDADE GAVETAS 1 UN LARGURA 1 50 M ALTURA 0 80 M COR ESTRUTURA MARFIM COMPRIMENTO 1 50 M ACABAMEN…",
+     "qtd": 15.0,
+     "valor": 21392.55,
+     "mdf": true
+    }
+   ],
+   "lat": -26.1146,
+   "lon": -52.7469
+  },
+  {
+   "id": "76975259000110-1-000079/2026",
+   "orgao": "MUNICIPIO DE SAO PEDRO DO PARANA",
+   "municipio": "São Pedro do Paraná",
+   "ibge": "4125902",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "46/2026",
+   "objeto": "REGISTRO DE PREÇO PARA EVENTUAIS AQUISIÇÕES DE PERSIANAS, DIVISÓRIAS E SERVIÇO DE VIDRAÇARIA COM FORNECIMENTO DE MATERIAIS, DESTINADOS AO ATENDIMENTO DAS NECESSIDADES DAS UNIDADES ADMINISTRATIVAS DO MUNICÍPIO DE SÃO PEDRO DO PARANÁ – ESTADO DO PARANÁ, DE FORMA PARCELADA, EXCLUSIVO PARA MICRO EMPRESA…",
+   "valor": 4882.5,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 162574.2,
+   "encerramento": "2026-12-15T08:00:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/76975259000110/2026/79",
+   "link_sistema": "https://bllcompras.com/Process/ProcessView?param1=[gkz]CElFEWJhIA9vkaCwIWnzIhkzzR12rhS8vMUZEqh68jrpPXRkq7l240bux7SgAnN7lMKkEbSNt2mI4XU5V76hdb0yDxOAa2MF3WqlbOtk8FM=",
+   "itens": [
+    {
+     "unidade": "Item 2",
+     "desc": "Divisória leve modulada composta por painéis de madeira, vidros e portas, guiados por perfis estruturais metálicos e fixados em suas bases, …",
+     "qtd": 35.0,
+     "valor": 4882.5,
+     "mdf": true
+    }
+   ],
+   "lat": -22.8239,
+   "lon": -53.2241
   }
  ]
 }
