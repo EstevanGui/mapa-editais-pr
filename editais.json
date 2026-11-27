@@ -1,918 +1,7 @@
 {
- "gerado_em": "2026-11-26T23:59:52",
- "total": 63,
+ "gerado_em": "2026-11-27T16:44:52",
+ "total": 57,
  "editais": [
-  {
-   "id": "04829381000177-1-000001/2026",
-   "orgao": "FUNDO DE PREVIDENCIA DE RESERVA DO IGUACU",
-   "municipio": "Reserva do Iguaçu",
-   "ibge": "4121752",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "01/2026",
-   "objeto": "CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO DE MÓVEIS PLANEJADOS, OBJETIVANDO ATENDER A DEMANDA DO REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL - FUNPRI, NOS TERMOS DA TABELA ABAIXO, CONFORME CONDIÇÕES E EXIGÊNCIAS ESTABELECIDAS NESTE INSTRUMENTO",
-   "valor": 44182.299999999996,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 103652.69,
-   "encerramento": "2026-11-27T08:29:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/04829381000177/2026/1",
-   "link_sistema": "https://bllcompras.com/Process/ProcessView?param1=[gkz]Y2g6prn3I5I8hznSzTkaNrM0OxachPa2H1v3U5_Kwjt91YjOlUvSJRtBJl4GWYpLydhVgWuEvSKZU3l9HIxMsX7ysllm2bm_60F4FZE6CgM=",
-   "itens": [
-    {
-     "unidade": "Item 1",
-     "desc": "Armário com prateleiras, conforme projeto e materiais descritos",
-     "qtd": 1.0,
-     "valor": 8332.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2",
-     "desc": "Balcão de apoio, conforme projeto e materiais descritos Balcão de apoio, conforme projeto e materiais descritos",
-     "qtd": 1.0,
-     "valor": 2538.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 7",
-     "desc": "Mesa tipo 01, conforme projeto e materiais descritos.",
-     "qtd": 1.0,
-     "valor": 6534.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 8",
-     "desc": "Mesa tipo 02, conforme projeto e materiais descritos. (02 unidades)",
-     "qtd": 2.0,
-     "valor": 11482.2,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 9",
-     "desc": "Painel chanfrado sobre posto, vista B, conforme projeto e materiais DESCRITO.",
-     "qtd": 1.0,
-     "valor": 5170.5,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 10",
-     "desc": "Painel chanfrado, vista A, conforme projeto e materiais descritos.",
-     "qtd": 1.0,
-     "valor": 3760.2,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 11",
-     "desc": "Painel chanfrado, vista C, conforme projeto e materiais descritos",
-     "qtd": 1.0,
-     "valor": 2948.4,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 12",
-     "desc": "Painel chanfrado, vista D, conforme projeto e materiais descritos",
-     "qtd": 1.0,
-     "valor": 3417.0,
-     "mdf": true
-    }
-   ],
-   "lat": -25.8319,
-   "lon": -52.0272
-  },
-  {
-   "id": "76973692000116-1-000097/2026",
-   "orgao": "MUNICIPIO DE QUERENCIA DO NORTE",
-   "municipio": "Querência do Norte",
-   "ibge": "4121000",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "40/2026",
-   "objeto": "FORNECIMENTO DE MÓVEIS, ELETRODOMÉSTICOS, ELETROELETRÔNICOS, EQUIPAMENTOS DE INFORMÁTICA E MATERIAL ESPORTIVO",
-   "valor": 135493.29,
-   "valor_tipo": "misto",
-   "valor_total_licitacao": 1567957.31,
-   "encerramento": "2026-11-27T08:30:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/76973692000116/2026/97",
-   "link_sistema": null,
-   "itens": [
-    {
-     "unidade": "Item 2336391",
-     "desc": "ARMARIO 9 PORTAS: Estrutura em MDF 15 mm revestido em melamínico branco. Com 9 portas revestidas em melamínico textura colorido e puxadores.…",
-     "qtd": 2.0,
-     "valor": 1593.78,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2336394",
-     "desc": "ARMÁRIO ALTO PARA ESCRITÓRIO fechado, confeccionado em mdf 18 mm, com duas portas, na cor cinza.Dividido internamente por meio de 04 (quatro…",
-     "qtd": 3.0,
-     "valor": 2975.01,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2336395",
-     "desc": "ARMÁRIO BAIXO PARA ESCRITÓRIO com 2 portas e 1 prateleira remomível, com tampo em mdp 25 mm, possuindo chave. Portas e laterais com 15mm. Me…",
-     "qtd": 2.0,
-     "valor": 949.28,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2336396",
-     "desc": "ARMÁRIO BAIXO PARA ESCRITÓRIO com 3 portas e 1 prateleira remomível, com tampo em mdp 25 mm, possuindo chave. portas e laterais com 15mm. me…",
-     "qtd": 2.0,
-     "valor": 1239.76,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2336404",
-     "desc": "Berço com Colchão e Mosquiteiro Incluso Padrão Nacional - MONTADO pronto para uso Materiais: Mdp Tipo de berço: Multifuncional Cor: Branco C…",
-     "qtd": 4.0,
-     "valor": 2818.52,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2336422",
-     "desc": "Estante Biblioteca dupla face, altura da coluna 2,10 mt, largura da prateleira 93 cm, profundidade da prateleira de 30 cm. Confeccionada a e…",
-     "qtd": 6.0,
-     "valor": 16881.0,
-     "mdf": false
-    },
-    {
-     "unidade": "Item 2336444",
-     "desc": "Mesa 1.80x1.40 Em L Para Escritório ESPECIFICAÇÕES *Mesa (A) lado direito medindo: L 1.20x P 60x A 74 *Mesa (B) lado esquerdo medindo: L 80 …",
-     "qtd": 6.0,
-     "valor": 7131.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2336445",
-     "desc": "MESA COM TAMPO E SAIA FRONTAL:CONJUNTO PROFESSOR, EM MDP REVESTIDO EM LMINADO MELAMÍNICO MESA: TAMPO 1200X650MM (LP) ALTURA 760MM. CADEIRA: …",
-     "qtd": 5.0,
-     "valor": 4295.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2336446",
-     "desc": "MESA COM TAMPO EM MDP: CONJUNTO REFEITORIO, RVESTIDO EM LAMINADO MELAMÍNICO, MESA: 1500X840MM (CXL) ALTURA 755MM, BANCO: 1350X350MM (CXL) AL…",
-     "qtd": 15.0,
-     "valor": 29475.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2336447",
-     "desc": "MESA COM TAMPO EM MDP: CONJUNTO REFEITORIO, RVESTIDO EM LAMINADO MELAMÍNICO, MESA: TAMPO 1500X700MM (CXL) ALTURA 640MM, BANCO: 1350X350MM (C…",
-     "qtd": 10.0,
-     "valor": 18000.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2336448",
-     "desc": "MESA DE REFEIÇÃO maternal 05 lugares - conjunto para alimentação infantil com 01 (uma) mesa e 05 (cinco) assentos integrados, indicado para …",
-     "qtd": 4.0,
-     "valor": 24400.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2336449",
-     "desc": "Mesa de refeição maternal 05 lugares conjunto para alimentação infantil com 01 (uma) mesa e 05 (cinco) assentos integrados, indicado para cr…",
-     "qtd": 4.0,
-     "valor": 15200.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2336450",
-     "desc": "Mesa de Reunião Bote 2,70m com caixa de Tomadas em ABS Pé Metálico Características da Mesa: Tampo confeccionado em MDP com 25 mm de espessur…",
-     "qtd": 1.0,
-     "valor": 1195.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2336451",
-     "desc": "Mesa para Computador com Rodízios: Características Altura (cm)78 Largura (cm)88 Profundidade (cm)46 Características Gerais - Prateleira para…",
-     "qtd": 2.0,
-     "valor": 1620.6,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2336452",
-     "desc": "MESA PARA ESCRITÓRIO Medidas aproximadas 1,50 x 0,67m x 0,75 de altura. Gaveteiro fixo 3 gavetas com chave. Tampo em chapa de madeira aglome…",
-     "qtd": 4.0,
-     "valor": 4860.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2336475",
-     "desc": "Mesa de Tênis de Mesa/Ping Pong, Tampo em MDP com espessura minima de 15 mm, com superfície plana, resistente e de fácil limpeza; Estrutura …",
-     "qtd": 2.0,
-     "valor": 2859.34,
-     "mdf": true
-    }
-   ],
-   "lat": -23.0838,
-   "lon": -53.483
-  },
-  {
-   "id": "76022490000199-1-000184/2026",
-   "orgao": "MUNICIPIO DE MORRETES",
-   "municipio": "Morretes",
-   "ibge": "4116208",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "52/2026",
-   "objeto": "AQUISIÇÃO DE MÓVEIS, ELETRODOMÉSTICOS, ELETROELETRÔNICOS, LIXEIRAS, EQUIPAMENTOS E DEMAIS MATERIAIS PERMANENTES.",
-   "valor": 351415.8600000001,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 1226918.27,
-   "encerramento": "2026-11-27T08:30:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/76022490000199/2026/184",
-   "link_sistema": null,
-   "itens": [
-    {
-     "unidade": "Item 17",
-     "desc": "Mesa de escritório em formato “L” (estação de trabalho angular), confeccionada em MDF ou material de qualidade equivalente, com revestimento…",
-     "qtd": 72.0,
-     "valor": 97210.08,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 18",
-     "desc": "Mesa de trabalho reta, destinada ao uso em ambientes administrativos, institucionais e unidades de saúde, projetada para uso contínuo, com a…",
-     "qtd": 45.0,
-     "valor": 27783.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 19",
-     "desc": "Mesa de trabalho reta, com 2 (duas) gavetas, destinada ao uso em ambientes administrativos, institucionais e unidades de saúde, projetada pa…",
-     "qtd": 74.0,
-     "valor": 38421.54,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 20",
-     "desc": "Mesa de reunião executiva retangular, destinada a salas de reuniões estratégicas, projetada para uso contínuo, com elevado padrão de acabame…",
-     "qtd": 16.0,
-     "valor": 20642.88,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 21",
-     "desc": "Mesa auxiliar destinada ao apoio de impressoras, multifuncionais, scanners e equipamentos de informática, indicada para uso em unidades de s…",
-     "qtd": 39.0,
-     "valor": 14136.72,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 22",
-     "desc": "Mesa de cozinha/apoio, destinada ao uso em ambientes institucionais, copas, refeitórios e áreas de preparo ou apoio alimentar, projetada par…",
-     "qtd": 13.0,
-     "valor": 20891.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 23",
-     "desc": "Mesa redonda para cozinha/refeitório, tampo circular de diâmetro mínimo de 120 cm, confeccionado em MDF, MDP, madeira, vidro temperado ou ma…",
-     "qtd": 13.0,
-     "valor": 25160.98,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 24",
-     "desc": "Armário multiuso baixo, destinado ao armazenamento de materiais em ambientes administrativos, com estrutura reforçada e adequada para uso co…",
-     "qtd": 40.0,
-     "valor": 13046.8,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 25",
-     "desc": "Armário multiuso vertical, com 2 (duas) portas de abrir, dotado de sistema de fechamento com chave, destinado ao armazenamento de materiais …",
-     "qtd": 24.0,
-     "valor": 16866.96,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 26",
-     "desc": "Armário alto fechado para escritório, com 2 (duas) portas de abrir, destinado ao armazenamento organizado e seguro de documentos, materiais …",
-     "qtd": 30.0,
-     "valor": 21491.1,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 27",
-     "desc": "Gaveteiro volante com rodízios, destinado ao uso em ambientes administrativos, confeccionado em MDF ou material de qualidade equivalente, co…",
-     "qtd": 35.0,
-     "valor": 33454.05,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 47",
-     "desc": "Mesa executiva em “L”, dimensões mínimas: tampo principal mínimo de 1,80 x 0,80 m, retorno aproximadamente 1,50 x 0,60 m; altura total aprox…",
-     "qtd": 2.0,
-     "valor": 1638.26,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 48",
-     "desc": "Mesa executiva em \"L”, dimensões mínimas: tampo principal: mínimo de 1,50 x 0,80 m; retorno aproximadamente 1,50 x 0,60 m; altura total apro…",
-     "qtd": 6.0,
-     "valor": 5090.7,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 49",
-     "desc": "Mesa executiva reta, dimensões mínimas: tampo: mínimo de 1,20 x 0,60 m; altura aproximada de 0,75 m; tampo com espessura mínima de 30 mm. ma…",
-     "qtd": 1.0,
-     "valor": 261.19,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 50",
-     "desc": "Mesa retangular (para copa) dimensões mínimas: tampo mínimo de 1,00 x 0,60 m; altura aproximada de 0,75 m; tampo com espessura mínima de 30 …",
-     "qtd": 1.0,
-     "valor": 984.5,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 51",
-     "desc": "Armário baixo 2 portas (para bebedouro), dimensões mínimas: mínimo de 0,60 m de largura, 0,50 m de profundidade e 0,75 m de altura; tampo co…",
-     "qtd": 2.0,
-     "valor": 530.78,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 52",
-     "desc": "Armário baixo 4 portas (para sala de reuniões), dimensões mínimas: mínimo de 1,50 m de largura e 0,45 m de profundidade; altura aproximada d…",
-     "qtd": 2.0,
-     "valor": 929.9,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 53",
-     "desc": "Armário alto 2 portas, dimensões mínimas: mínimo de 0,90 m de largura e 0,45 m de profundidade; altura aproximada de 1,80 m. materiais e aca…",
-     "qtd": 2.0,
-     "valor": 1228.58,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 64",
-     "desc": "Guarda-roupa de seis portas. Em MDP de 12 mm, 6 portas, 2 gavetas com corrediças metálicas, dobradiças metálicas, pintura UV, puxadores e pé…",
-     "qtd": 6.0,
-     "valor": 4630.38,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 65",
-     "desc": "Cômoda de oito gavetas. Estrutura em MDP de 12 e 15 mm, 8 gavetas com corrediças telescópicas, acabamento em verniz alto brilho, puxadores e…",
-     "qtd": 6.0,
-     "valor": 5319.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 68",
-     "desc": "Rack com painel para televisão. Conjunto para TV de até 65 polegadas, em MDP/MDF, 4 prateleiras, 5 nichos, 6 rodízios e 2 portas de correr. …",
-     "qtd": 1.0,
-     "valor": 833.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 69",
-     "desc": "Sapateira. Estrutura em MDP, pintura UV, 2 portas, puxadores em ABS e dobradiças metálicas; dimensões aproximadas de 183 × 52 × 36 cm.",
-     "qtd": 2.0,
-     "valor": 864.46,
-     "mdf": true
-    }
-   ],
-   "lat": -25.4744,
-   "lon": -48.8345
-  },
-  {
-   "id": "76022490000199-1-000185/2026",
-   "orgao": "MUNICIPIO DE MORRETES",
-   "municipio": "Morretes",
-   "ibge": "4116208",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "52/2026",
-   "objeto": "AQUISIÇÃO DE MÓVEIS, ELETRODOMÉSTICOS, ELETROELETRÔNICOS, LIXEIRAS, EQUIPAMENTOS E DEMAIS MATERIAIS PERMANENTES.",
-   "valor": 351415.8600000001,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 1226918.27,
-   "encerramento": "2026-11-27T08:30:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/76022490000199/2026/185",
-   "link_sistema": "https://bllcompras.com/Process/ProcessView?param1=[gkz]dt_bGWf24pYzLlDadsxlx8ayFHJqJrwhW_dRS2bG/QgNo8QFAgTHQoSXxcunnpWeRTOOXi7mi46rtaK1WZVd1tCdqg69QiqqP1e5GhhFiVc=",
-   "itens": [
-    {
-     "unidade": "Item 17",
-     "desc": "Mesa de escritório em formato “L” (estação de trabalho angular), confeccionada em MDF ou material de qualidade equivalente, com revestimento…",
-     "qtd": 72.0,
-     "valor": 97210.08,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 18",
-     "desc": "Mesa de trabalho reta, destinada ao uso em ambientes administrativos, institucionais e unidades de saúde, projetada para uso contínuo, com a…",
-     "qtd": 45.0,
-     "valor": 27783.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 19",
-     "desc": "Mesa de trabalho reta, com 2 (duas) gavetas, destinada ao uso em ambientes administrativos, institucionais e unidades de saúde, projetada pa…",
-     "qtd": 74.0,
-     "valor": 38421.54,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 20",
-     "desc": "Mesa de reunião executiva retangular, destinada a salas de reuniões estratégicas, projetada para uso contínuo, com elevado padrão de acabame…",
-     "qtd": 16.0,
-     "valor": 20642.88,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 21",
-     "desc": "Mesa auxiliar destinada ao apoio de impressoras, multifuncionais, scanners e equipamentos de informática, indicada para uso em unidades de s…",
-     "qtd": 39.0,
-     "valor": 14136.72,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 22",
-     "desc": "Mesa de cozinha/apoio, destinada ao uso em ambientes institucionais, copas, refeitórios e áreas de preparo ou apoio alimentar, projetada par…",
-     "qtd": 13.0,
-     "valor": 20891.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 23",
-     "desc": "Mesa redonda para cozinha/refeitório, tampo circular de diâmetro mínimo de 120 cm, confeccionado em MDF, MDP, madeira, vidro temperado ou ma…",
-     "qtd": 13.0,
-     "valor": 25160.98,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 24",
-     "desc": "Armário multiuso baixo, destinado ao armazenamento de materiais em ambientes administrativos, com estrutura reforçada e adequada para uso co…",
-     "qtd": 40.0,
-     "valor": 13046.8,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 25",
-     "desc": "Armário multiuso vertical, com 2 (duas) portas de abrir, dotado de sistema de fechamento com chave, destinado ao armazenamento de materiais …",
-     "qtd": 24.0,
-     "valor": 16866.96,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 26",
-     "desc": "Armário alto fechado para escritório, com 2 (duas) portas de abrir, destinado ao armazenamento organizado e seguro de documentos, materiais …",
-     "qtd": 30.0,
-     "valor": 21491.1,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 27",
-     "desc": "Gaveteiro volante com rodízios, destinado ao uso em ambientes administrativos, confeccionado em MDF ou material de qualidade equivalente, co…",
-     "qtd": 35.0,
-     "valor": 33454.05,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 47",
-     "desc": "Mesa executiva em “L”, dimensões mínimas: tampo principal mínimo de 1,80 x 0,80 m, retorno aproximadamente 1,50 x 0,60 m; altura total aprox…",
-     "qtd": 2.0,
-     "valor": 1638.26,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 48",
-     "desc": "Mesa executiva em \"L”, dimensões mínimas: tampo principal: mínimo de 1,50 x 0,80 m; retorno aproximadamente 1,50 x 0,60 m; altura total apro…",
-     "qtd": 6.0,
-     "valor": 5090.7,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 49",
-     "desc": "Mesa executiva reta, dimensões mínimas: tampo: mínimo de 1,20 x 0,60 m; altura aproximada de 0,75 m; tampo com espessura mínima de 30 mm. ma…",
-     "qtd": 1.0,
-     "valor": 261.19,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 50",
-     "desc": "Mesa retangular (para copa) dimensões mínimas: tampo mínimo de 1,00 x 0,60 m; altura aproximada de 0,75 m; tampo com espessura mínima de 30 …",
-     "qtd": 1.0,
-     "valor": 984.5,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 51",
-     "desc": "Armário baixo 2 portas (para bebedouro), dimensões mínimas: mínimo de 0,60 m de largura, 0,50 m de profundidade e 0,75 m de altura; tampo co…",
-     "qtd": 2.0,
-     "valor": 530.78,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 52",
-     "desc": "Armário baixo 4 portas (para sala de reuniões), dimensões mínimas: mínimo de 1,50 m de largura e 0,45 m de profundidade; altura aproximada d…",
-     "qtd": 2.0,
-     "valor": 929.9,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 53",
-     "desc": "Armário alto 2 portas, dimensões mínimas: mínimo de 0,90 m de largura e 0,45 m de profundidade; altura aproximada de 1,80 m. materiais e aca…",
-     "qtd": 2.0,
-     "valor": 1228.58,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 64",
-     "desc": "Guarda-roupa de seis portas. Em MDP de 12 mm, 6 portas, 2 gavetas com corrediças metálicas, dobradiças metálicas, pintura UV, puxadores e pé…",
-     "qtd": 6.0,
-     "valor": 4630.38,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 65",
-     "desc": "Cômoda de oito gavetas. Estrutura em MDP de 12 e 15 mm, 8 gavetas com corrediças telescópicas, acabamento em verniz alto brilho, puxadores e…",
-     "qtd": 6.0,
-     "valor": 5319.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 68",
-     "desc": "Rack com painel para televisão. Conjunto para TV de até 65 polegadas, em MDP/MDF, 4 prateleiras, 5 nichos, 6 rodízios e 2 portas de correr. …",
-     "qtd": 1.0,
-     "valor": 833.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 69",
-     "desc": "Sapateira. Estrutura em MDP, pintura UV, 2 portas, puxadores em ABS e dobradiças metálicas; dimensões aproximadas de 183 × 52 × 36 cm.",
-     "qtd": 2.0,
-     "valor": 864.46,
-     "mdf": true
-    }
-   ],
-   "lat": -25.4744,
-   "lon": -48.8345
-  },
-  {
-   "id": "17757258000130-1-000056/2026",
-   "orgao": "CAMARA MUNICIPAL DE PIRAQUARA",
-   "municipio": "Piraquara",
-   "ibge": "4119509",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "15/2026",
-   "objeto": "Registro de Preços para futura e eventual aquisição de mobiliário corporativo em geral, incluindo estações de trabalho (mesas em L), gaveteiros, armários, arquivos, balcões, painéis divisórios e cadeiras ergonômicas, compreendendo o fornecimento, transporte, descarregamento, movimentação interna, mo…",
-   "valor": 388612.98,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 687237.71,
-   "encerramento": "2026-11-27T08:59:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/17757258000130/2026/56",
-   "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92759905000152026",
-   "itens": [
-    {
-     "unidade": "Item 1",
-     "desc": "Mesa Escritório acabamento estrutura: pintura eletrostática a pó, altura: 740, características adicionais: mesa em \"l\", cor estrutura: grafi…",
-     "qtd": 26.0,
-     "valor": 35364.94,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2",
-     "desc": "Mesa Escritório acabamento estrutura: pintura eletrostática a pó, altura: 740, características adicionais: mesa em \"l\", cor estrutura: grafi…",
-     "qtd": 72.0,
-     "valor": 97933.68,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 3",
-     "desc": "Gaveteiro Móvel acabamento bordas: fita de pvc, acabamento superficial: laminado melamínico, altura: 530, características adicionais: chavea…",
-     "qtd": 98.0,
-     "valor": 77224.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 4",
-     "desc": "Armário Escritório altura: 1600, características adicionais: conforme modelo, comprimento: 0,80, cor: cinza, espessura: 18, espessura tampo:…",
-     "qtd": 7.0,
-     "valor": 9468.48,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 5",
-     "desc": "Armário Estante acabamento superficial: bp (revestimento melamínico baixa pressão), altura: 1,60, características adicionais: puxadores tipo…",
-     "qtd": 36.0,
-     "valor": 52902.72,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 6",
-     "desc": "Armário Arquivo altura: 1,30, cor: branco, largura: 0,47, material: mdf, material base: madeira mdf, padrão acabamento: laminado melamínico …",
-     "qtd": 3.0,
-     "valor": 4177.74,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 7",
-     "desc": "Balcão altura: 75, características adicionais: conforme modelo do órgão ., espessura material: 50, largura: 1,80, material: madeira, profund…",
-     "qtd": 63.0,
-     "valor": 61320.42,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 8",
-     "desc": "Armário Escritório altura: 110, cor: carvalho, largura: 800, material: madeira mdf, profundidade: 480, quantidade portas: 2, tipo: médio, ti…",
-     "qtd": 8.0,
-     "valor": 8584.64,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 9",
-     "desc": "Divisória acabamento superficial: laminado melamínico, altura: 350, características adicionais: suportes em alumínio, cor: cerâmica, cor per…",
-     "qtd": 144.0,
-     "valor": 28972.8,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 10",
-     "desc": "Divisória acabamento superficial: laminado melamínico, altura: 350, características adicionais: suportes em alumínio, cor: cerâmica, cor per…",
-     "qtd": 52.0,
-     "valor": 12663.56,
-     "mdf": true
-    }
-   ],
-   "lat": -25.4422,
-   "lon": -49.0624
-  },
-  {
-   "id": "95587648000112-1-000086/2026",
-   "orgao": "MUNICIPIO DE NOVA LARANJEIRAS",
-   "municipio": "Nova Laranjeiras",
-   "ibge": "4117057",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "46/2026",
-   "objeto": "FORMAÇÃO DE REGISTRO DE PREÇOS PARA AQUISIÇÃO DE MÓVEIS, ELETRODOMÉSTICOS, EQUIPAMENTOS ELETRÔNICOS E INFORMÁTICA PARA MANUTENÇÃO DE TODOS OS SETORES DA ADMINISTRAÇÃO MUNICIPAL",
-   "valor": 38051.0,
-   "valor_tipo": "misto",
-   "valor_total_licitacao": 1204268.74,
-   "encerramento": "2026-11-27T09:00:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/95587648000112/2026/86",
-   "link_sistema": "https://bllcompras.com/Process/ProcessView?param1=[gkz]ludHbGI2_OPFu4AVhZzVpGRd7JjLfRpAVFP9c/jKGDu/IGp5yHvv_/aWYebVd1UeGFs8XsmAGzwOsd8KkP1RV4gfqz4cKnlSMJPvo4tBA2U=",
-   "itens": [
-    {
-     "unidade": "Item 32",
-     "desc": "ARMARIO 03 GAVETAS",
-     "qtd": 12.0,
-     "valor": 3408.0,
-     "mdf": false
-    },
-    {
-     "unidade": "Item 33",
-     "desc": "ARMARIO BAIXO 2 PORTAS",
-     "qtd": 17.0,
-     "valor": 11883.0,
-     "mdf": false
-    },
-    {
-     "unidade": "Item 34",
-     "desc": "ARMARIO EM MDF 25 MM 2 PORTAS COR CINZA",
-     "qtd": 9.0,
-     "valor": 2610.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 35",
-     "desc": "ARMARIO MULTIUSO 2 PORTAS",
-     "qtd": 14.0,
-     "valor": 7210.0,
-     "mdf": false
-    },
-    {
-     "unidade": "Item 37",
-     "desc": "BALCAO DE COZINHA",
-     "qtd": 9.0,
-     "valor": 6120.0,
-     "mdf": false
-    },
-    {
-     "unidade": "Item 38",
-     "desc": "BALCÃO DE COZINHA MULTIUSO",
-     "qtd": 11.0,
-     "valor": 6820.0,
-     "mdf": false
-    }
-   ],
-   "lat": -25.3054,
-   "lon": -52.5447
-  },
-  {
-   "id": "95587770000199-1-000141/2026",
-   "orgao": "MUNICIPIO DE RIO BONITO DO IGUACU",
-   "municipio": "Rio Bonito do Iguaçu",
-   "ibge": "4122156",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "69/2026",
-   "objeto": "FORMAÇÃO DE REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL AQUISIÇÃO DE MOBILIÁRIOS EM GERAL, MOBILIÁRIOS HOSPITALARES E EQUIPAMENTOS HOSPITALARES DIVERSOS, DESTINADOS AO ATENDIMENTO DAS NECESSIDADES DA SECRETARIA MUNICIPAL DE SAÚDE DE RIO BONITO DO IGUAÇU - PR, ABRANGENDO SUAS UNIDADES, ESTABELECIMENTOS…",
-   "valor": 36974.95,
-   "valor_tipo": "misto",
-   "valor_total_licitacao": 603837.21,
-   "encerramento": "2026-11-27T09:00:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/95587770000199/2026/141",
-   "link_sistema": "https://bllcompras.com/Process/ProcessView?param1=[gkz]BXEmzScdMRWI6EVmOwJ2bSC0S_LuUW_syUANLoJ4jmVqGuY3zqUGcl_JnWFMVdmJsb5w_FJER57hXOL2I0SOionwa1g6oU69As3WuFwtGNw=",
-   "itens": [
-    {
-     "unidade": "Item 2",
-     "desc": "ESTANTE DE PARTITURA ESTANTE PARA PARTITURA Confeccionada em metal resistente, modelo tipo maestro, com porta-partitura, tampo com regulagem…",
-     "qtd": 5.0,
-     "valor": 588.15,
-     "mdf": false
-    },
-    {
-     "unidade": "Item 12",
-     "desc": "ARMARIO PARA ESCRITORIO ARMÁRIO PARA ESCRITÓRIO Confeccionado em MDF, com revestimento em laminado melamínico em ambas as faces, medindo apr…",
-     "qtd": 20.0,
-     "valor": 13210.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 42",
-     "desc": "BALCAO EM MDF",
-     "qtd": 10.0,
-     "valor": 7458.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 58",
-     "desc": "MESA DE ESCRITORIO EM L Mesa em formato de \"L\", com estrutura confeccionada em aço, com tratamento anticorrosivo e pintura eletrostática, ta…",
-     "qtd": 20.0,
-     "valor": 12448.8,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 60",
-     "desc": "MESA PARA IMPRESSORA Mesa para impressora com estrutura em aço ou ferro pintado, tampo em madeira, MDP, MDF ou material similar, com dimensõ…",
-     "qtd": 15.0,
-     "valor": 3270.0,
-     "mdf": true
-    }
-   ],
-   "lat": -25.4874,
-   "lon": -52.5292
-  },
-  {
-   "id": "76995448000154-1-000193/2026",
-   "orgao": "MUNICIPIO DE PATO BRANCO",
-   "municipio": "Pato Branco",
-   "ibge": "4118501",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "15/2026",
-   "objeto": "Aquisição de mobiliários destinados às Unidades Básicas de Saúde e à UPA 24h, para atendimento das necessidades da Secretaria Municipal de Saúde",
-   "valor": 59082.03999999999,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 191639.04,
-   "encerramento": "2026-11-27T09:00:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/76995448000154/2026/193",
-   "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45099605000152026",
-   "itens": [
-    {
-     "unidade": "Item 1",
-     "desc": "Armário Escritório material: madeira mdf, quantidade portas: 2, material porta: madeira mdf, tipo portas: de giro, quantidade prateleiras: 6…",
-     "qtd": 16.0,
-     "valor": 21409.44,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2",
-     "desc": "Banco material: madeira plastica, comprimento: 1,50, altura: 0,70, acabamento: madeira plástica encapsulada., cor: marrom, características a…",
-     "qtd": 4.0,
-     "valor": 4302.6,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 5",
-     "desc": "Mesa Escritório material estrutura: tubo metálico, material tampo: aglomerado de alta resistência - mdf, revestimento tampo: post forming, c…",
-     "qtd": 29.0,
-     "valor": 27976.3,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 6",
-     "desc": "Mesa material: mdf/aço tubular., comprimento: 140 cm, largura: 60 cm, altura: 75 cm, características adicionais: pintura epóx em pó .saia e …",
-     "qtd": 5.0,
-     "valor": 5393.7,
-     "mdf": true
-    }
-   ],
-   "lat": -26.2292,
-   "lon": -52.6706
-  },
-  {
-   "id": "80881915000192-1-000126/2026",
-   "orgao": "MUNICIPIO DE LINDOESTE",
-   "municipio": "Lindoeste",
-   "ibge": "4113452",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "PR74/2026",
-   "objeto": "A presente licitação tem como objeto a escolha da proposta mais vantajosa, aquisição de ARMÁRIOS E ESCRIVANINHAS PLANEJADOS SOB MEDIDA, destinados à Farmácia Básica da Unidade de Atenção Primária à Saúde da Família (UAPSF) do Cielito, em atendimento à Secretaria Municipal de Saúde, conforme condiçõe…",
-   "valor": 49308.9,
-   "valor_tipo": "mdf",
-   "valor_total_licitacao": 49308.9,
-   "encerramento": "2026-11-27T09:00:01",
-   "link_pncp": "https://pncp.gov.br/app/editais/80881915000192/2026/126",
-   "link_sistema": null,
-   "itens": [
-    {
-     "unidade": "Item 1",
-     "desc": "ARMÁRIO EM MDF 18MM SALERNO-GUARARAPES C/ 100 GAVETAS DE CORRER C/ VIDRO FRONTAL TEMPERADO 6MM",
-     "qtd": 1.0,
-     "valor": 30185.0,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 2",
-     "desc": "ESCRIVANINHA EM FORMATO L EM MDF 18MM SALERNOGUARARAPES C/ 2 GAVETAS",
-     "qtd": 2.0,
-     "valor": 6736.9,
-     "mdf": true
-    },
-    {
-     "unidade": "Item 3",
-     "desc": "ARMÁRIO EM FORMATO L EM MDF 18MM SALERNO- GUARARAPES C/ 36 NICHOS C/ PRATELEIRAS",
-     "qtd": 1.0,
-     "valor": 12387.0,
-     "mdf": true
-    }
-   ],
-   "lat": -25.2596,
-   "lon": -53.5733
-  },
-  {
-   "id": "17757258000130-1-000057/2026",
-   "orgao": "CAMARA MUNICIPAL DE PIRAQUARA",
-   "municipio": "Piraquara",
-   "ibge": "4119509",
-   "modalidade": "Pregão - Eletrônico",
-   "numero": "15/2026",
-   "objeto": "Registro de Preços para futura e eventual aquisição de mobiliário corporativo em geral, incluindo estações de trabalho (mesas em L), gaveteiros, armários, arquivos, balcões, painéis divisórios e cadeiras ergonômicas, compreendendo o fornecimento, transporte, descarregamento, movimentação interna, mo…",
-   "valor": 251136.62,
-   "valor_tipo": "conferir",
-   "valor_total_licitacao": 687237.71,
-   "encerramento": "2026-11-27T09:01:00",
-   "link_pncp": "https://pncp.gov.br/app/editais/17757258000130/2026/57",
-   "link_sistema": null,
-   "itens": [
-    {
-     "unidade": "Item 3",
-     "desc": "GAVETEIRO VOLANTE COM 03 GAVETAS E TRANCA",
-     "qtd": 98.0,
-     "valor": 77224.0,
-     "mdf": false
-    },
-    {
-     "unidade": "Item 4",
-     "desc": "ARMÁRIO ALTO FECHADO PARA DIRETORIA/ARQUIVO",
-     "qtd": 7.0,
-     "valor": 9468.48,
-     "mdf": false
-    },
-    {
-     "unidade": "Item 5",
-     "desc": "ARMÁRIO ALTO SEMIABERTO CORPORATIVO",
-     "qtd": 36.0,
-     "valor": 52902.72,
-     "mdf": false
-    },
-    {
-     "unidade": "Item 7",
-     "desc": "BALCÃO BAIXO PARA ATENDIMENTO E APOIO",
-     "qtd": 63.0,
-     "valor": 61320.42,
-     "mdf": false
-    },
-    {
-     "unidade": "Item 8",
-     "desc": "ARMÁRIO MÉDIO PARA CIRCULAÇÃO E CORREDORES",
-     "qtd": 8.0,
-     "valor": 8584.64,
-     "mdf": false
-    },
-    {
-     "unidade": "Item 9",
-     "desc": "DIVISÓRIA DE MESA / PAINEL FRONTAL – 80 CM X 35 CM",
-     "qtd": 144.0,
-     "valor": 28972.8,
-     "mdf": false
-    },
-    {
-     "unidade": "Item 10",
-     "desc": "DIVISÓRIA DE MESA / PAINEL FRONTAL – 140 CM X 35 CM",
-     "qtd": 52.0,
-     "valor": 12663.56,
-     "mdf": false
-    }
-   ],
-   "lat": -25.4422,
-   "lon": -49.0624
-  },
   {
    "id": "76282656000106-1-000893/2026",
    "orgao": "MUNICIPIO DE MARINGA",
@@ -2808,6 +1897,32 @@
    "lon": -49.4336
   },
   {
+   "id": "76206457000119-1-000281/2026",
+   "orgao": "MUNICIPIO DE SANTA HELENA",
+   "municipio": "Santa Helena",
+   "ibge": "4123501",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "PCE 83/2026",
+   "objeto": "AQUISIÇÃO DE MOBILIÁRIOS EM GERAL, DESTINADOS A SUPRIR AS DEMANDAS OPERACIONAIS E INSTITUCIONAIS DAS SECRETARIAS MUNICIPAIS DE ADMINISTRAÇÃO E DE ESPORTES E LAZER, VISANDO À ADEQUAÇÃO DOS AMBIENTES DE TRABALHO, ATENDIMENTO AO PÚBLICO, REUNIÕES E ATIVIDADES TÉCNICAS.",
+   "valor": 15195.0,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 133994.0,
+   "encerramento": "2026-12-09T07:59:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/76206457000119/2026/281",
+   "link_sistema": null,
+   "itens": [
+    {
+     "unidade": "Item 2",
+     "desc": "MESA DE TRABALHO - FORMATO EM \"L\" (MEDIDA APROXIMADA - 1,50 X 1,50), COM NO MÍNIMO 2 GAVETAS. TAMPO CONFECCIONADO EM MADEIRA AGLOMERADA DE A…",
+     "qtd": 15.0,
+     "valor": 15195.0,
+     "mdf": true
+    }
+   ],
+   "lat": -24.8585,
+   "lon": -54.336
+  },
+  {
    "id": "75680025000182-1-000085/2026",
    "orgao": "MUNICIPIO DE PALMITAL",
    "municipio": "Palmital",
@@ -2868,6 +1983,32 @@
      "qtd": 54.0,
      "valor": 116575.2,
      "mdf": false
+    }
+   ],
+   "lat": -25.7371,
+   "lon": -52.1188
+  },
+  {
+   "id": "01603719000180-1-000150/2026",
+   "orgao": "MUNICIPIO DE FOZ DO JORDAO",
+   "municipio": "Foz do Jordão",
+   "ibge": "4108452",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "0000043/2026",
+   "objeto": "AQUISIÇÃO DE MOBILIÁRIO DESTINADO AS SALAS DE AULA, SALA DE ROBÓTICA E SALA DE INFORMÁTICA DA ESCOLA MUNICIPAL PADRE EMILIO BARBIÉRI",
+   "valor": 116575.2,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 250304.62,
+   "encerramento": "2026-12-09T08:29:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/01603719000180/2026/150",
+   "link_sistema": "https://bllcompras.com/Process/ProcessView?param1=[gkz]SUpE4yyxVBxwCBeCwV3D/tAGwbSM81sKsM5qX4I2DbYD6qZneCP0SsIrt9wO0IS3smBZMFbXYt5jMJheX95rlQ5fGpK57uxqjHZCb3JcufI=",
+   "itens": [
+    {
+     "unidade": "Item 2",
+     "desc": "ARMÁRIO DUAS PORTAS ARMÁRIO ALTO – 02 PORTAS Armário alto para utilização em ambiente escolar, confeccionado em MDF, com espessura mínima de…",
+     "qtd": 54.0,
+     "valor": 116575.2,
+     "mdf": true
     }
    ],
    "lat": -25.7371,
@@ -3280,6 +2421,74 @@
    "lon": -51.1691
   },
   {
+   "id": "76178011000128-1-000115/2026",
+   "orgao": "MUNICIPIO DE PINHAO",
+   "municipio": "Pinhão",
+   "ibge": "4119301",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "53/2026",
+   "objeto": "REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL AQUISIÇÃO DE EQUIPAMENTOS, EQUIPAMENTOS DE INFORMÁTICA, MATERIAIS GRÁFICOS, ITENS DE PAPELARIA, MOBILIÁRIO, INSUMOS E OUTROS BENS DE ACORDO COM OS PROGRAMAS PROVIGIA E IOAF COMPATÍVEIS COM AS RESOLUÇÕES SESA Nº 726/2025 E Nº 1450/2025.",
+   "valor": 15419.850000000002,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 718626.04,
+   "encerramento": "2026-12-10T08:30:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/76178011000128/2026/115",
+   "link_sistema": null,
+   "itens": [
+    {
+     "unidade": "Item 95",
+     "desc": "ARMÁRIO AÉREO PARA COZINHA COM 3 PORTAS EM MDF ARMÁRIO AÉREO PARA COZINHA, NOVO, DESTINADO AO ARMAZENAMENTO DE UTENSÍLIOS, ALIMENTOS E MATER…",
+     "qtd": 1.0,
+     "valor": 495.85,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 96",
+     "desc": "ARMÁRIO ARQUIVO COM 4 GAVETAS PARA PASTAS SUSPENSAS EM MDF ARMÁRIO TIPO ARQUIVO, NOVO, DESTINADO AO ARMAZENAMENTO E ORGANIZAÇÃO DE DOCUMENTO…",
+     "qtd": 4.0,
+     "valor": 3628.68,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 97",
+     "desc": "ARMÁRIO DE ARQUIVO COM 3 GAVETAS E CHAVE ARMÁRIO TIPO ARQUIVO, NOVO, DESTINADO AO ARMAZENAMENTO E ORGANIZAÇÃO DE DOCUMENTOS, DEVENDO ATENDER…",
+     "qtd": 8.0,
+     "valor": 4476.56,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 98",
+     "desc": "ARMÁRIO MULTIUSO ALTO COM 2 PORTAS E 8 PRATELEIRAS ARMÁRIO MULTIUSO ALTO, NOVO, DESTINADO AO ARMAZENAMENTO E ORGANIZAÇÃO DE MATERIAIS DIVERS…",
+     "qtd": 1.0,
+     "valor": 473.2,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 99",
+     "desc": "ARMÁRIO PARA ESCRITÓRIO COM 02 PORTAS EM MDP ARMÁRIO PARA ESCRITÓRIO, CONFECCIONADO EM MDP DE ALTA QUALIDADE, COM ESPESSURA MÍNIMA DE 15 MM,…",
+     "qtd": 2.0,
+     "valor": 1420.78,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 105",
+     "desc": "MESA DE ESCRITÓRIO COM 02 GAVETAS EM MDF MESA DE ESCRITÓRIO CONFECCIONADA EM MDF DE ALTA QUALIDADE, COM ESPESSURA MÍNIMA DE 15 MM, REVESTIDA…",
+     "qtd": 3.0,
+     "valor": 2155.98,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 106",
+     "desc": "MESA DE REUNIÃO PARA 08 LUGARES. MESA DE REUNIÃO, NOVA, SEM USO ANTERIOR, DESTINADA A SALAS ADMINISTRATIVAS, GABINETES OU AMBIENTES INSTITUC…",
+     "qtd": 1.0,
+     "valor": 2768.8,
+     "mdf": true
+    }
+   ],
+   "lat": -25.6944,
+   "lon": -51.6536
+  },
+  {
    "id": "75730994000109-1-000436/2026",
    "orgao": "MUNICIPIO DE NOVA ESPERANCA",
    "municipio": "Nova Esperança",
@@ -3370,6 +2579,39 @@
    ],
    "lat": -26.1146,
    "lon": -52.7469
+  },
+  {
+   "id": "30372673000133-1-000031/2026",
+   "orgao": "AUTARQUIA MUNICIPAL DE SAUDE DE PAICANDU",
+   "municipio": "Paiçandu",
+   "ibge": "4117503",
+   "modalidade": "Pregão - Eletrônico",
+   "numero": "16/2026",
+   "objeto": "1.1 Pregão Eletrônico, na modalidade Registro de Preços aquisição de equipamentos e materiais permanentes destinados ao fortalecimento da Atenção Primária em Saúde, à ampliação da informatização das unidades de saúde e à ampliação da capacidade de atendimento da rede municipal de saúde de Paiçandu/P…",
+   "valor": 45584.8,
+   "valor_tipo": "mdf",
+   "valor_total_licitacao": 1382964.69,
+   "encerramento": "2026-12-11T08:30:00",
+   "link_pncp": "https://pncp.gov.br/app/editais/30372673000133/2026/31",
+   "link_sistema": "https://bnccompras.com/Process/ProcessView?param1=[gkz]cfmquPOVoYD6C0aMY_NgO0Z4O14/wpDOtyRscn1ALZwGg2//ZeloSAc7PCZAh9xKIUGFpEdFr2CVOVOoK5gYBcSCC65lJx3zc85sO6SnRBQ=",
+   "itens": [
+    {
+     "unidade": "Item 27",
+     "desc": "MESA ESCRITÓRIO COM GAVETAS (1,20 M LARG.X 0,70 CM). COM TAMPO CONFECCIONADO EM MADEIRA AGLOMERADA DE ALTA RESISTÊNCIA E 25 MM DE ESPESSURA,…",
+     "qtd": 40.0,
+     "valor": 33694.8,
+     "mdf": true
+    },
+    {
+     "unidade": "Item 28",
+     "desc": "MESA REUNIÃO RETANGULAR - FABRICADA EM MDP DE 15MM NA COR CINZA, COM ACABAMENTO DE BORDA EM PVC, MEDIDA MÍNIMA DO TAMPO 2,00X0,90M, COM ESPE…",
+     "qtd": 10.0,
+     "valor": 11890.0,
+     "mdf": true
+    }
+   ],
+   "lat": -23.4555,
+   "lon": -52.046
   },
   {
    "id": "76975259000110-1-000079/2026",
